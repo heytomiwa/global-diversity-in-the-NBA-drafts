@@ -1,0 +1,61 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Kyrie Irving,PG,United States ,Cleveland Cavaliers,Duke,Yes,College Freshman
+1,2,Derrick Williams,SF/PF,United States,Minnesota Timberwolves,Arizona,No,College Sophmore
+1,3,Enes Kanter,C,Turkey,Utah Jazz,"Stoneridge Preparatory School(Simi Valley, California) ",Yes,Playing Internationally
+1,4,Tristan Thompson,C/PF,Canada,Cleveland Cavaliers,Texas,No,College Freshman
+1,5,Jonas Valančiūnas,C,Lithuania,Toronto Raptors,Lietuvos rytas Vilnius (Lithuania),No,Playing Internationally
+1,6,Jan Veselý,PF,Czech Republic,Washington Wizards,Partizan Belgrade (Serbia),No,Playing Internationally
+1,7,Bismack Biyombo,C,DR Congo,Sacramento Kings,Fuenlabrada (Spain),Yes,Playing Internationally
+1,8,Brandon Knight,PG,United States,Detroit Pistons,Kentucky,No,College Freshman
+1,9,Kemba Walker,PG,United States,Charlotte Bobcats,Connecticut,No,College Junior
+1,10,Jimmer Fredette,PG/SG,United States,Milwaukee Bucks,BYU,Yes,College Senior
+1,11,Klay Thompson,SG,United States,Golden State Warriors,Washington State,No,College Junior
+1,12,Alec Burks,SG,United States,Utah Jazz,Colorado,No,College Sophmore
+1,13,Markieff Morris,PF,United States,Phoenix Suns,Kansas,No,College Junior
+1,14,Marcus Morris,PF,United States,Houston Rockets,Kansas,No,College Junior
+1,15,Kawhi Leonard,SF,United States,Indiana Pacers,San Diego State,Yes,College Sophmore
+1,16,Nikola Vučević,C,Montenegro,Philadelphia 76ers,USC,No,College Junior
+1,17,Iman Shumpert,SG,United States,New York Knicks,Georgia Tech,No,College Junior
+1,18,Chris Singleton,SF,United States,Washington Wizards,Florida State,Yes,College Junior
+1,19,Tobias Harris,SF,United States,Charlotte Bobcats,Tennessee,Yes,College Freshman
+1,20,Donatas Motiejūnas,PF,Lithuania,Minnesota Timberwolves,Benetton Treviso (Italy),Yes,Playing Internationally
+1,21,Nolan Smith,PG,United States,Portland Trail Blazers,Duke,No,College Senior
+1,22,Kenneth Faried,PF,United States,Denver Nuggets,Morehead State,No,College Senior
+1,23,Nikola Mirotić,PF,Spain,Houston Rockets,Real Madrid (Spain),Yes,Playing Internationally
+1,24,Reggie Jackson,PG,United States,Oklahoma City Thunder,Boston College,No,College Junior
+1,25,MarShon Brooks,SG,United States,Boston Celtics,Providence,Yes,College Senior
+1,26,Jordan Hamilton,SG,United States,Dallas Mavericks,Texas,Yes,College Sophmore
+1,27,JaJuan Johnson,PF,United States,New Jersey Nets,Purdue,Yes,College Senior
+1,28,Norris Cole,PG,United States,Chicago Bulls,Cleveland State,Yes,College Senior
+1,29,Cory Joseph,PG,Canada,San Antonio Spurs,Texas,No,College Freshman
+1,30,Jimmy Butler,SF/SG,United States,Chicago Bulls,Marquette,No,College Senior
+2,31,Bojan Bogdanović,SF/PF,Croatia,Miami Heat,Cibona Zagreb (Croatia),Yes,Playing Internationally
+2,32,Justin Harper,PF,United States,Cleveland Cavaliers,Richmond,Yes,College Senior
+2,33,Kyle Singler,SF,United States,Detroit Pistons,Duke,Yes,College Senior
+2,34,Shelvin Mack,PG,United States,Washington Wizards,Butler,No,College Junior
+2,35,Tyler Honeycutt,SF,United States,Sacramento Kings,UCLA,No,College Sophmore
+2,36,Jordan Williams,PF,United States,New Jersey Nets,Maryland,No,College Sophmore
+2,37,Trey Thompkins,PF,United States,Los Angeles Clippers,Georgia,Yes,College Junior
+2,38,Chandler Parsons,SF,United States,Houston Rockets,Florida,Yes,College Senior
+2,39,Jeremy Tyler,PF,United States,Charlotte Bobcats,Tokyo Apache (Japan),Yes,Playing Internationally
+2,40,Jon Leuer,PF,United States,Milwaukee Bucks,Wisconsin,No,College Senior
+2,41,Darius Morris,PG,United States,Los Angeles Lakers,Michigan,Yes,College Sophmore
+2,42,Dāvis Bertāns,SF,Latvia,Indiana Pacers,Union Olimpija (Slovenia),Yes,Playing Internationally
+2,43,Malcolm Lee,SG,United States,Chicago Bulls,UCLA,Yes,College Junior
+2,44,Charles Jenkins,PG,United States,Golden State Warriors,Hofstra,Yes,College Senior
+2,45,Josh Harrellson,C,United States,New Orleans Hornets,Kentucky,Yes,College Senior
+2,46,Andrew Goudelock,PG,United States,Los Angeles Lakers,College of Charleston,Yes,College Senior
+2,47,Travis Leslie,SG,United States,Los Angeles Clippers,Georgia,Yes,College Junior
+2,48,Keith Benson,C,United States,Atlanta Hawks,Oakland,No,College Senior
+2,49,Josh Selby,PG,United States,Memphis Grizzlies,Kansas,No,College Freshman
+2,50,Lavoy Allen,PF,United States,Philadelphia 76ers,Temple,Yes,College Senior
+2,51,Jon Diebler,SG,United States,Portland Trail Blazers,Ohio State,No,College Senior
+2,52,Vernon Macklin,PF,United States,Detroit Pistons,Florida,Yes,College Senior
+2,53,DeAndre Liggins,SG,United States,Orlando Magic,Kentucky,No,College Junior
+2,54,Milan Mačvan,PF,Serbia,Cleveland Cavaliers,Maccabi Tel Aviv (Israel),Yes,Playing Internationally
+2,55,E'Twaun Moore,SG,United States,Boston Celtics,Purdue,No,College Senior
+2,56,Chukwudiebere Maduabum,PF,Nigeria,Los Angeles Lakers,Bakersfield Jam (D-League),Yes,Playing Internationally
+2,57,Tanguy Ngombo,SF,Qatar,Dallas Mavericks,Al Rayyan (Qatar),Yes,Playing Internationally
+2,58,Ater Majok,PF,Australia,Los Angeles Lakers,Gold Coast Blaze (Australia),Yes,Playing Internationally
+2,59,Ádám Hanga,SG,Hungary,San Antonio Spurs,Albacomp (Hungary),No,Playing Internationally
+2,60,Isaiah Thomas,PG,United States,Sacramento Kings,Washington,Yes,College Junior

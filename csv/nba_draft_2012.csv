@@ -1,0 +1,61 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Anthony Davis,PF/C,United States,New Orleans Hornets,Kentucky,No,College Freshman
+1,2,Michael Kidd-Gilchrist,SF,United States,Charlotte Bobcats,Kentucky,No,College Freshman
+1,3,Bradley Beal,SG,United States,Washington Wizards,Florida,No,College Freshman
+1,4,Dion Waiters,SG,United States,Cleveland Cavaliers,Syracuse,No,College Sophmore
+1,5,Thomas Robinson,PF,United States,Sacramento Kings,Kansas,No,College Junior
+1,6,Damian Lillard,PG,United States,Portland Trail Blazers,Weber St.,Yes,College Junior
+1,7,Harrison Barnes,SF,United States,Golden State Warriors,North Carolina,No,College Sophmore
+1,8,Terrence Ross,SG,United States,Toronto Raptors,Washington,No,College Sophmore
+1,9,Andre Drummond,C,United States,Detroit Pistons,Connecticut,No,College Freshman
+1,10,Austin Rivers,SG,United States,New Orleans Hornets,Duke,Yes,College Freshman
+1,11,Meyers Leonard,C,United States,Portland Trail Blazers,Illinois,No,College Sophmore
+1,12,Jeremy Lamb,SG,United States,Houston Rockets,Connecticut,Yes,College Sophmore
+1,13,Kendall Marshall,PG,United States,Phoenix Suns,North Carolina,No,College Sophmore
+1,14,John Henson,PF,United States,Milwaukee Bucks,North Carolina,Yes,College Junior
+1,15,Maurice Harkless,SF,Puerto Rico,Philadelphia 76ers,St. John's,No,College Freshman
+1,16,Royce White,PF,United States,Houston Rockets,Iowa St.,Yes,College Sophmore
+1,17,Tyler Zeller,C,United States,Dallas Mavericks,North Carolina,Yes,College Senior
+1,18,Terrence Jones,PF,United States,Houston Rockets,Kentucky,Yes,College Sophmore
+1,19,Andrew Nicholson,PF,Canada,Orlando Magic,St. Bonaventure,No,College Senior
+1,20,Evan Fournier,SG,France,Denver Nuggets,Poitiers Basket,No,College Freshman
+1,21,Jared Sullinger,PF,United States,Boston Celtics,Ohio St.,No,College Sophmore
+1,22,Fab Melo,C,Brazil,Boston Celtics,Syracuse,Yes,College Sophmore
+1,23,John Jenkins,SG,United States,Atlanta Hawks,Vanderbilt,No,College Junior
+1,24,Jared Cunningham,SG,United States,Cleveland Cavaliers,Oregon St.,Yes,College Junior
+1,25,Tony Wroten,PG,United States,Memphis Grizzlies,Washington,No,College Freshman
+1,26,Miles Plumlee,C,United States,Indiana Pacers,Duke,No,College Senior
+1,27,Arnett Moultrie,PF,United States,Miami Heat,Mississippi St.,Yes,College Junior
+1,28,Perry Jones III,SF,United States,Oklahoma City Thunder,Baylor,No,College Sophmore
+1,29,Marquis Teague,PG,United States,Chicago Bulls,Kentucky,No,College Freshman
+1,30,Festus Ezeli,C,Nigeria,Golden State Warriors,Vanderbilt,Yes,College Senior
+2,31,Jeffery Taylor,SF,Sweden,Charlotte Bobcats,Vanderbilt,No,College Senior
+2,32,Tomáš Satoranský,PG,Czech Republic,Washington Wizards,Banca Cívica Sevilla (Spain),No,Playing Internationally
+2,33,Bernard James,C,United States,Cleveland Cavaliers,Florida St.,Yes,College Senior
+2,34,Jae Crowder,SF,United States,Cleveland Cavaliers,Marquette,Yes,College Senior
+2,35,Draymond Green,PF,United States,Golden State Warriors,Michigan St.,Yes,College Senior
+2,36,Orlando Johnson,SG,United States,Sacramento Kings,UC Santa Barbara,Yes,College Senior
+2,37,Quincy Acy,PF,United States,Toronto Raptors,Baylor,No,College Senior
+2,38,Quincy Miller,SF,United States,Denver Nuggets,Baylor,Yes,College Freshman
+2,39,Khris Middleton,SF,United States,Detroit Pistons,Texas A&M,No,College Junior
+2,40,Will Barton,SG,United States,Portland Trail Blazers,Memphis,Yes,College Sophmore
+2,41,Tyshawn Taylor,PG,United States,Portland Trail Blazers,Kansas,Yes,College Senior
+2,42,Doron Lamb,SG,United States,Milwaukee Bucks,Kentucky,No,College Sophmore
+2,43,Mike Scott,PF,United States,Atlanta Hawks,Virginia,Yes,College Senior
+2,44,Kim English,SG,United States,Detroit Pistons,Missouri,Yes,College Senior
+2,45,Justin Hamilton,C,United States,Philadelphia 76ers,LSU,Yes,College Junior
+2,46,Darius Miller,SF,United States,New Orleans Hornets,Kentucky,Yes,College Senior
+2,47,Kevin Murphy,SG,United States,Utah Jazz,Tennessee Tech,No,College Senior
+2,48,Kostas Papanikolaou,SF,Greece,New York Knicks,Olympiacos (Greece),No,Playing Internationally
+2,49,Kyle O'Quinn,PF,United States,Orlando Magic,Norfolk St.,No,College Senior
+2,50,İzzet Türkyılmaz,PF,Turkey,Denver Nuggets,Banvit (Turkey),No,Playing Internationally
+2,51,Kris Joseph,SF,Canada,Boston Celtics,Syracuse,No,College Senior
+2,52,Ognjen Kuzmić,C,Serbia,Golden State Warriors,Clinicas Rincón (Spain),Yes,Playing Internationally
+2,53,Furkan Aldemir,PF,Turkey,Los Angeles Clippers,Galatasaray (Turkey),No,Playing Internationally
+2,54,Tornike Shengelia,SF,Georgia,Philadelphia 76ers,Spirou Charleroi (Belgium),Yes,Playing Internationally
+2,55,Darius Johnson-Odom,SG,United States,Dallas Mavericks,Marquette,Yes,College Senior
+2,56,Tomislav Zubčić,PF,Croatia,Toronto Raptors,Cibona Zagreb (Croatia),Yes,Playing Internationally
+2,57,İlkan Karaman,PF,Turkey,Brooklyn Nets,Pınar Karşıyaka (Turkey),Yes,Playing Internationally
+2,58,Robbie Hummel,SF,United States,Minnesota Timberwolves,Purdue,Yes,College Senior
+2,59,Marcus Denmon,PG,United States,San Antonio Spurs,Missouri,No,College Senior
+2,60,Robert Sacre,C,Canada,Los Angeles Lakers,Gonzaga,Yes,College Senior

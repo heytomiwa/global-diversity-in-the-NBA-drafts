@@ -1,0 +1,61 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Ben Simmons,PF/PG,Australia,Philadelphia 76ers,LSU,No,College Freshman
+1,2,Brandon Ingram,SF,United States,Los Angeles Lakers,Duke,No,College Freshman
+1,3,Jaylen Brown,SF/SG,United States,Boston Celtics,California,Yes,College Freshman
+1,4,Dragan Bender,PF/C,Croatia,Phoenix Suns,Maccabi Tel Aviv (Israel),No,Playing Internationally
+1,5,Kris Dunn,PG,United States,Minnesota Timberwolves,Providence,No,College Junior
+1,6,Buddy Hield,SG,Bahamas,New Orleans Pelicans,Oklahoma,No,College Senior
+1,7,Jamal Murray,PG/SG,Canada,Denver Nuggets,Kentucky,Yes,College Freshman
+1,8,Marquese Chriss,PF,United States,Sacramento Kings,Washington,Yes,College Freshman
+1,9,Jakob Pöltl,C,Austria,Toronto Raptors,Utah,Yes,College Sophmore
+1,10,Thon Maker,PF,Australia,Milwaukee Bucks,Orangeville Prep/Athlete Institute,No,College Senior
+1,11,Domantas Sabonis,C/PF,Lithuania,Orlando Magic,Gonzaga,Yes,College Sophmore
+1,12,Taurean Prince,SF,United States,Utah Jazz,Baylor,Yes,College Senior
+1,13,Georgios Papagiannis,C,Greece,Phoenix Suns,Panathinaikos (Greece),Yes,Playing Internationally
+1,14,Denzel Valentine,SG/SF,United States,Chicago Bulls,Michigan State,No,College Senior
+1,15,Juan Hernangómez,SF/PF,Spain,Denver Nuggets,Movistar Estudiantes (Spain),Yes,Playing Internationally
+1,16,Guerschon Yabusele,PF,France,Boston Celtics,Rouen Métropole,Yes,College Freshman
+1,17,Wade Baldwin,PG,United States,Memphis Grizzlies,Vanderbilt,No,College Sophmore
+1,18,Henry Ellenson,PF,United States,Detroit Pistons,Marquette,No,College Freshman
+1,19,Malik Beasley,SG,United States,Denver Nuggets,Florida State,Yes,College Freshman
+1,20,Caris LeVert,SG,United States,Indiana Pacers,Michigan,Yes,College Senior
+1,21,DeAndre' Bembry,SF,United States,Atlanta Hawks,Saint Joseph's,No,College Junior
+1,22,Malachi Richardson,SG,United States,Charlotte Hornets,Syracuse,Yes,College Freshman
+1,23,Ante Žižić,C,Croatia,Boston Celtics,KK Cibona (Croatia),No,Playing Internationally
+1,24,Timothé Luwawu-Cabarrot,SG/SF,France,Philadelphia 76ers,Mega Leks (Serbia),Yes,Playing Internationally
+1,25,Brice Johnson,PF,United States,Los Angeles Clippers,North Carolina,No,College Senior
+1,26,Furkan Korkmaz,SG/SF,Turkey,Philadelphia 76ers,Anadolu Efes (Turkey),Yes,Playing Internationally
+1,27,Pascal Siakam,PF,Cameroon,Toronto Raptors,New Mexico State,No,College Sophmore
+1,28,Skal Labissière,PF/C,Haiti,Phoenix Suns,Kentucky,Yes,College Freshman
+1,29,Dejounte Murray,PG/SG,United States,San Antonio Spurs,Washington,No,College Freshman
+1,30,Damian Jones,C,United States,Golden State Warriors,Vanderbilt,No,College Junior
+2,31,Deyonta Davis,PF/C,United States,Boston Celtics,Michigan State,Yes,College Freshman
+2,32,Ivica Zubac,C,Croatia,Los Angeles Lakers,Mega Leks (Serbia),No,Playing Internationally
+2,33,Cheick Diallo,PF/C,Mali,Los Angeles Clippers,Kansas,Yes,College Freshman
+2,34,Tyler Ulis,PG,United States,Phoenix Suns,Kentucky,No,College Sophmore
+2,35,Rade Zagorac,SG/SF,Serbia,Boston Celtics,Mega Leks (Serbia),Yes,Playing Internationally
+2,36,Malcolm Brogdon,PG/SG,United States,Milwaukee Bucks,Virginia,Yes,College Senior
+2,37,Chinanu Onuaku,PF/C,United States,Houston Rockets,Louisville,Yes,College Sophmore
+2,38,Patrick McCaw,SG/SF,United States,Milwaukee Bucks,UNLV,Yes,College Sophmore
+2,39,David Michineau,PG,France,New Orleans Pelicans,Élan Chalon,Yes,College Freshman
+2,40,Diamond Stone,C,United States,New Orleans Pelicans,Maryland,Yes,College Freshman
+2,41,Stephen Zimmerman,PF/C,United States,Orlando Magic,UNLV,No,College Freshman
+2,42,Isaiah Whitehead,PG/SG,United States,Utah Jazz,Seton Hall,Yes,College Sophmore
+2,43,Zhou Qi,C,China,Houston Rockets,Xinjiang Flying Tigers (China),No,Playing Internationally
+2,44,Isaïa Cordinier,SG,France,Atlanta Hawks,ASC Denain-Voltaire,Yes,College Freshman
+2,45,Demetrius Jackson,PG,United States,Boston Celtics,Notre Dame,Yes,College Junior
+2,46,A. J. Hammons,C,United States,Dallas Mavericks,Purdue,No,College Senior
+2,47,Jake Layman,SF,United States,Orlando Magic,Maryland,Yes,College Senior
+2,48,Paul Zipser,SG/SF,Germany,Chicago Bulls,Bayern Munich (Germany),Yes,Playing Internationally
+2,49,Michael Gbinije,SF,Nigeria,Detroit Pistons,Syracuse,No,College Senior
+2,50,Georges Niang,PF,United States,Indiana Pacers,Iowa State,No,College Senior
+2,51,Ben Bentil,PF,Ghana,Boston Celtics,Providence,Yes,College Sophmore
+2,52,Joel Bolomboy,PF/C,Ukraine,Utah Jazz,Weber State,Yes,College Senior
+2,53,Petr Cornelie,PF,France,Denver Nuggets,Le Mans Sarthe,Yes,College Freshman
+2,54,Kay Felder,PG,United States,Atlanta Hawks,Oakland,Yes,College Junior
+2,55,Marcus Paige,PG,United States,Brooklyn Nets,North Carolina,Yes,College Senior
+2,56,Daniel Hamilton,SG/SF,United States,Denver Nuggets,Connecticut,Yes,College Sophmore
+2,57,Wang Zhelin,C,China,Memphis Grizzlies,Fujian Sturgeons (China),Yes,Playing Internationally
+2,58,Abdel Nader,SF,Egypt,Boston Celtics,Iowa State,Yes,College Senior
+2,59,Isaiah Cousins,PG/SG,United States,Sacramento Kings,Oklahoma,Yes,College Senior
+2,60,Tyrone Wallace,PG,United States,Utah Jazz,California,Yes,College Senior
