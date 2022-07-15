@@ -9,7 +9,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-%matplotlib inline
 
 """Maybe make it into a job that extracts and sends a completion email every year."""
 # import smtplib 
