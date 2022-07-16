@@ -1,0 +1,61 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Paolo Banchero,PF,Italy,Orlando Magic,Duke,No,College Freshman
+1,2,Chet Holmgren,PF/C,United States,Oklahoma City Thunder,Gonzaga,No,College Freshman
+1,3,Jabari Smith Jr.,PF,United States,Houston Rockets,Auburn,No,College Freshman
+1,4,Keegan Murray,PF,United States,Sacramento Kings,Iowa,No,College Sophmore
+1,5,Jaden Ivey,PG/SG,United States,Detroit Pistons,Purdue,No,College Sophmore
+1,6,Bennedict Mathurin,SG/SF,Canada,Indiana Pacers,Arizona,No,College Sophmore
+1,7,Shaedon Sharpe,SG,Canada,Portland Trail Blazers,Kentucky,No,College Freshman
+1,8,Dyson Daniels,PG/SG,Australia,New Orleans Pelicans,G League Ignite,Yes,NBA G League Player
+1,9,Jeremy Sochan,PF,Poland,San Antonio Spurs,Baylor,No,College Freshman
+1,10,Johnny Davis,SG,United States,Washington Wizards,Wisconsin,No,College Sophmore
+1,11,Ousmane Dieng,SF,France,New York Knicks,New Zealand Breakers (Australia),Yes,Playing Internationally
+1,12,Jalen Williams,SG,United States,Oklahoma City Thunder,Santa Clara,Yes,College Junior
+1,13,Jalen Duren,C,United States,Charlotte Hornets,Memphis,Yes,College Freshman
+1,14,Ochai Agbaji,SG,United States,Cleveland Cavaliers,Kansas,No,College Senior
+1,15,Mark Williams,C,United States,Charlotte Hornets,Duke,Yes,College Sophmore
+1,16,AJ Griffin,SF,United States,Atlanta Hawks,Duke,No,College Freshman
+1,17,Tari Eason,PF,United States,Houston Rockets,LSU,Yes,College Sophmore
+1,18,Dalen Terry,SG,United States,Chicago Bulls,Arizona,No,College Sophmore
+1,19,Jake LaRavia,SF,United States,Minnesota Timberwolves,Wake Forest,Yes,College Junior
+1,20,Malaki Branham,SG,United States,San Antonio Spurs,Ohio State,Yes,College Freshman
+1,21,Christian Braun,SG,United States,Denver Nuggets,Kansas,No,College Junior
+1,22,Walker Kessler,C,United States,Memphis Grizzlies,Auburn,Yes,College Sophmore
+1,23,David Roddy,SF,United States,Philadelphia 76ers,Colorado State,Yes,College Junior
+1,24,MarJon Beauchamp,SG/SF,United States,Milwaukee Bucks,G League Ignite,Yes,NBA G League Player
+1,25,Blake Wesley,PG/SG,United States,San Antonio Spurs,Notre Dame,Yes,College Freshman
+1,26,Wendell Moore,SF,United States,Dallas Mavericks,Duke,Yes,College Junior
+1,27,Nikola Jović,SF,Serbia,Miami Heat,Mega Mozzart (Serbia),No,Playing Internationally
+1,28,Patrick Baldwin Jr.,PF,United States,Golden State Warriors,Milwaukee,No,College Freshman
+1,29,TyTy Washington,PG,United States,Memphis Grizzlies,Kentucky,Yes,College Freshman
+1,30,Peyton Watson,SF,United States,Oklahoma City Thunder,UCLA,Yes,College Freshman
+2,31,Andrew Nembhard,PG,Canada,Indiana Pacers,Gonzaga,Yes,College Senior
+2,32,Caleb Houstan,SF,Canada,Orlando Magic,Michigan,No,College Freshman
+2,33,Christian Koloko,C,Cameroon,Toronto Raptors,Arizona,Yes,College Junior
+2,34,Jaylin Williams,PF,United States,Oklahoma City Thunder,Arkansas,No,College Sophmore
+2,35,Max Christie,SG,United States,Los Angeles Lakers,Michigan State,Yes,College Freshman
+2,36,Gabriele Procida,SG/SF,Italy,Portland Trail Blazers,Fortitudo Bologna (Italy),Yes,Playing Internationally
+2,37,Jaden Hardy,SG,United States,Sacramento Kings,G League Ignite,Yes,NBA G League Player
+2,38,Kennedy Chandler,PG,United States,San Antonio Spurs,Tennessee,Yes,College Freshman
+2,39,Khalifa Diop,C,Senegal,Cleveland Cavaliers,Herbalife Gran Canaria (Spain),Yes,Playing Internationally
+2,40,Bryce McGowens,SG,United States,Minnesota Timberwolves,Nebraska,Yes,College Freshman
+2,41,E. J. Liddell,PF,United States,New Orleans Pelicans,Ohio State,No,College Junior
+2,42,Trevor Keels,SG,United States,New York Knicks,Duke,No,College Freshman
+2,43,Moussa Diabaté,PF,France,Los Angeles Clippers,Michigan,No,College Freshman
+2,44,Ryan Rollins,SG,United States,Atlanta Hawks,Toledo,Yes,College Sophmore
+2,45,Josh Minott,SF,Jamaica,Charlotte Hornets,Memphis,Yes,College Freshman
+2,46,Ismaël Kamagate,C,France,Detroit Pistons,Paris Basketball,Yes,College Freshman
+2,47,Vince Williams Jr.,SG/SF,United States,Memphis Grizzlies,VCU,Yes,College Senior
+2,48,Kendall Brown,SF,United States,Minnesota Timberwolves,Baylor,Yes,College Freshman
+2,49,Isaiah Mobley,PF,United States,Cleveland Cavaliers,USC,Yes,College Junior
+2,50,Matteo Spagnolo,SG,Italy,Minnesota Timberwolves,Vanoli Cremona (Italy),Yes,Playing Internationally
+2,51,Tyrese Martin,SG,United States,Golden State Warriors,UConn,Yes,College Senior
+2,52,Karlo Matković,C,Croatia,New Orleans Pelicans,Mega Mozzart (Serbia),Yes,Playing Internationally
+2,53,JD Davison,PG,United States,Boston Celtics,Alabama,No,College Freshman
+2,Milwaukee Bucks (forfeited due to tampering violation)[3],Milwaukee Bucks (forfeited due to tampering violation),Milwaukee Bucks (forfeited due to tampering violation)[3],Milwaukee Bucks (forfeited due to tampering violation),Milwaukee Bucks,Milwaukee Bucks (forfeited due to tampering violation),No,Playing Internationally
+2,Miami Heat (from Philadelphia via Denver; forfeited due to tampering violation)[3],Miami Heat (from Philadelphia via Denver; forfeited due to tampering violation),Miami Heat (from Philadelphia via Denver; forfeited due to tampering violation)[3],Miami Heat (from Philadelphia via Denver; forfeited due to tampering violation),Miami Heat,Miami Heat (from Philadelphia via Denver; forfeited due to tampering violation),Yes,Playing Internationally
+2,54,Yannick Nzosa,C,DR Congo,Washington Wizards,Unicaja (Spain),Yes,Playing Internationally
+2,55,Gui Santos,SF,Brazil,Golden State Warriors,Minas (Brazil),No,Playing Internationally
+2,56,Luke Travers,SG,Australia,Cleveland Cavaliers,Perth Wildcats (Australia),Yes,Playing Internationally
+2,57,Jabari Walker,PF,United States,Portland Trail Blazers,Colorado,Yes,College Sophmore
+2,58,Hugo Besson,PG,France,Indiana Pacers,New Zealand Breakers (Australia),Yes,Playing Internationally

@@ -1,0 +1,61 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Andrea Bargnani,PF,Italy,Toronto Raptors,Benetton Treviso (Italy),No,Playing Internationally
+1,2,LaMarcus Aldridge,PF,United States,Chicago Bulls,Texas,Yes,College Sophmore
+1,3,Adam Morrison,SF,United States,Charlotte Bobcats,Gonzaga,No,College Junior
+1,4,Tyrus Thomas,PF,United States,Portland Trail Blazers,LSU,Yes,College Freshman
+1,5,Shelden Williams,PF,United States,Atlanta Hawks,Duke,No,College Senior
+1,6,Brandon Roy,SG,United States,Minnesota Timberwolves,Washington,Yes,College Senior
+1,7,Randy Foye,SG,United States,Boston Celtics,Villanova,Yes,College Senior
+1,8,Rudy Gay,SF,United States,Houston Rockets,Connecticut,Yes,College Sophmore
+1,9,Patrick O'Bryant,C,United States,Golden State Warriors,Bradley,No,College Sophmore
+1,10,Mouhamed Sene,C,Senegal,Seattle SuperSonics,Verviers-Pepinster (Belgium),No,Playing Internationally
+1,11,JJ Redick,SG,United States,Orlando Magic,Duke,No,College Senior
+1,12,Hilton Armstrong,C,United States,New Orleans/Oklahoma City Hornets,Connecticut,No,College Senior
+1,13,Thabo Sefolosha,SG,Switzerland,Philadelphia 76ers,Angelico Biella (Italy),Yes,Playing Internationally
+1,14,Ronnie Brewer,SG,United States,Utah Jazz,Arkansas,No,College Junior
+1,15,Cedric Simmons,SF,United States,New Orleans/Oklahoma City Hornets,NC State,Yes,College Sophmore
+1,16,Rodney Carney,SF,United States,Chicago Bulls,Memphis,Yes,College Senior
+1,17,Shawne Williams,PF,United States,Indiana Pacers,Memphis,No,College Freshman
+1,18,Oleksiy Pecherov,C,Ukraine,Washington Wizards,BC Kyiv (Ukraine),No,Playing Internationally
+1,19,Quincy Douby,G,United States,Sacramento Kings,Rutgers,No,College Junior
+1,20,Renaldo Balkman,F,Puerto Rico,New York Knicks,South Carolina,Yes,College Sophmore
+1,21,Rajon Rondo,PG,United States,Phoenix Suns,Kentucky,Yes,College Sophmore
+1,22,Marcus Williams,G,United States,New Jersey Nets,Connecticut,Yes,College Junior
+1,23,Josh Boone,F,United States,New Jersey Nets,Connecticut,No,College Junior
+1,24,Kyle Lowry,PG,United States,Memphis Grizzlies,Villanova,No,College Sophmore
+1,25,Shannon Brown,G,United States,Cleveland Cavaliers,Michigan State,No,College Junior
+1,26,Jordan Farmar,G,United States,Los Angeles Lakers,UCLA,Yes,College Sophmore
+1,27,Sergio Rodríguez,G,Spain,Phoenix Suns,Adecco Estudiantes (Spain),Yes,Playing Internationally
+1,28,Maurice Ager,G,United States,Dallas Mavericks,Michigan State,No,College Senior
+1,29,Mardy Collins,G,United States,New York Knicks,Temple,Yes,College Senior
+1,30,Joel Freeland,F,United Kingdom,Portland Trail Blazers,Gran Canaria (Spain),Yes,Playing Internationally
+2,31,James White,G,United States,Portland Trail Blazers,Cincinnati,Yes,College Senior
+2,32,Steve Novak,SF,United States,Houston Rockets,Marquette,Yes,College Senior
+2,33,Solomon Jones,F,United States,Atlanta Hawks,South Florida,No,College Sophmore
+2,34,Paul Davis,C,United States,Los Angeles Clippers,Michigan State,Yes,College Senior
+2,35,P. J. Tucker,F,United States,Toronto Raptors,Texas,No,College Junior
+2,36,Craig Smith,F,United States,Minnesota Timberwolves,Boston College,Yes,College Senior
+2,37,Bobby Jones,F,United States,Minnesota Timberwolves,Washington,Yes,College Senior
+2,38,Kosta Perović,C,Serbia,Golden State Warriors,Partizan Belgrade (Serbia),No,Playing Internationally
+2,39,David Noel,F,United States,Milwaukee Bucks,North Carolina,Yes,College Senior
+2,40,Denham Brown,G,Canada,Seattle SuperSonics,Connecticut,No,College Senior
+2,41,James Augustine,F,United States,Orlando Magic,Illinois,No,College Senior
+2,42,Daniel Gibson,G,United States,Cleveland Cavaliers,Texas,Yes,College Sophmore
+2,43,Marcus Vinicius,F,Brazil,New Orleans/Oklahoma City Hornets,Objetivo São Carlos (Brazil),No,Playing Internationally
+2,44,Lior Eliyahu,F,Israel,Orlando Magic,Hapoel Galil Elyon (Israel),Yes,Playing Internationally
+2,45,Alexander Johnson,F,United States,Indiana Pacers,Florida State,Yes,College Junior
+2,46,Dee Brown,G,United States,Utah Jazz,Illinois,Yes,College Senior
+2,47,Paul Millsap,PF,United States,Utah Jazz,Louisiana Tech,No,College Junior
+2,48,Vladimir Veremeenko,F,Belarus,Washington Wizards,Dynamo St. Petersburg (Russia),No,Playing Internationally
+2,49,Leon Powe,F,United States,Denver Nuggets,California,Yes,College Junior
+2,50,Ryan Hollins,C,United States,Charlotte Bobcats,UCLA,Yes,College Senior
+2,51,Cheikh Samb,C,Senegal,Los Angeles Lakers,WTC Cornellà (Spain),Yes,Playing Internationally
+2,52,Guillermo Diaz,G,Puerto Rico,Los Angeles Clippers,Miami,No,College Junior
+2,53,Yotam Halperin,G,Israel,Seattle SuperSonics,Union Olimpija (Slovenia),Yes,Playing Internationally
+2,54,Hassan Adams,G,United States,New Jersey Nets,Arizona,No,College Senior
+2,55,Ejike Ugboaja,F,Nigeria,Cleveland Cavaliers,Union Bank Lagos (Nigeria),No,Playing Internationally
+2,56,Edin Bavčić,F,Bosnia and Herzegovina,Toronto Raptors,ASA BH Telecom (Bosnia and Herzegovina),Yes,Playing Internationally
+2,57,Loukas Mavrokefalidis,C,Greece,Minnesota Timberwolves,PAOK (Greece),Yes,Playing Internationally
+2,58,J. R. Pinnock,G,United States,Dallas Mavericks,George Washington,Yes,College Junior
+2,59,Damir Markota,F,Croatia,San Antonio Spurs,Cibona Zagreb (Croatia),Yes,Playing Internationally
+2,60,Will Blalock,G,United States,Detroit Pistons,Iowa State,No,College Junior

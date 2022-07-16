@@ -1,0 +1,59 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Joe Smith,PF,United States,Golden State Warriors,Maryland,No,College Sophmore
+1,2,Antonio McDyess,PF,United States,Los Angeles Clippers,Alabama,Yes,College Sophmore
+1,3,Jerry Stackhouse,SF/SG,United States,Philadelphia 76ers,North Carolina,No,College Sophmore
+1,4,Rasheed Wallace,PF/C,United States,Washington Bullets,North Carolina,No,College Sophmore
+1,5,Kevin Garnett^,PF,United States,Minnesota Timberwolves,Farragut Academy HS (Chicago),No,Playing Internationally
+1,6,Bryant Reeves,C,United States,Vancouver Grizzlies,Oklahoma State,No,College Senior
+1,7,Damon Stoudamire,PG,United States,Toronto Raptors,Arizona,No,College Senior
+1,8,Shawn Respert,SG,United States,Portland Trail Blazers,Michigan State,Yes,College Senior
+1,9,Ed O'Bannon,SF,United States,New Jersey Nets,UCLA,No,College Senior
+1,10,Kurt Thomas,PF/C,United States,Miami Heat,TCU,No,College Senior
+1,11,Gary Trent,PF,United States,Milwaukee Bucks,Ohio,Yes,College Junior
+1,12,Cherokee Parks,C,United States,Dallas Mavericks,Duke,No,College Senior
+1,13,Corliss Williamson,PF,United States,Sacramento Kings,Arkansas,No,College Junior
+1,14,Eric Williams,SF,United States,Boston Celtics,Providence,No,College Senior
+1,15,Brent Barry,SG,United States,Denver Nuggets,Oregon State,Yes,College Senior
+1,16,Alan Henderson,PF,United States,Atlanta Hawks,Indiana,No,College Senior
+1,17,Bob Sura,SG,United States,Cleveland Cavaliers,Florida State,No,College Senior
+1,18,Theo Ratliff,PF/C,United States,Detroit Pistons,Wyoming,Yes,College Senior
+1,19,Randolph Childress,PG,United States,Detroit Pistons,Wake Forest,Yes,College Senior
+1,20,Jason Caffey,PF,United States,Chicago Bulls,Alabama,No,College Senior
+1,21,Michael Finley,SF/SG,United States,Phoenix Suns,Wisconsin,Yes,College Senior
+1,22,George Zidek,C,Czech Republic,Charlotte Hornets,UCLA,No,College Senior
+1,23,Travis Best,PG,United States,Indiana Pacers,Georgia Tech,No,College Senior
+1,24,Loren Meyer,PF,United States,Dallas Mavericks,Iowa State,Yes,College Senior
+1,25,David Vaughn,PF/C,United States,Orlando Magic,Memphis,No,College Junior
+1,26,Sherell Ford,PF,United States,Seattle SuperSonics,UIC,No,College Senior
+1,27,Mario Bennett,PF,United States,Phoenix Suns,Arizona State,No,College Junior
+1,28,Greg Ostertag,C,United States,Utah Jazz,Kansas,No,College Senior
+1,29,Cory Alexander,PG,United States,San Antonio Spurs,Virginia,No,College Junior
+2,30,Lou Roe,F,United States,Detroit Pistons,UMass,No,College Senior
+2,31,Dragan Tarlać,C,FR Yugoslavia,Chicago Bulls,Olympiakos (Greece),No,Playing Internationally
+2,32,Terrence Rencher,G,United States,Washington Bullets,Texas,No,College Senior
+2,33,Junior Burrough,F,United States,Boston Celtics,Virginia,No,College Senior
+2,34,Andrew DeClercq,PF/C,United States,Golden State Warriors,Florida,No,College Senior
+2,35,Jimmy King,G,United States,Toronto Raptors,Michigan,No,College Senior
+2,36,Lawrence Moten,G,United States,Vancouver Grizzlies,Syracuse,No,College Senior
+2,37,Frankie King,G,United States,Los Angeles Lakers,Western Carolina,No,College Senior
+2,38,Rashard Griffith ,C,United States,Milwaukee Bucks,Wisconsin,No,College Sophmore
+2,39,Donny Marshall,F,United States,Cleveland Cavaliers,Connecticut,No,College Senior
+2,40,Dwayne Whitfield,F,United States,Golden State Warriors,Jackson State,No,College Senior
+2,41,Erik Meek,C,United States,Houston Rockets,Duke,No,College Senior
+2,42,Donnie Boyce,G,United States,Atlanta Hawks,Colorado,No,College Senior
+2,43,Eric Snow,PG,United States,Milwaukee Bucks,Michigan State,No,College Senior
+2,44,Anthony Pelle,C,United States,Denver Nuggets,Fresno State,No,College Freshman
+2,45,Troy Brown,F/C,United States,Atlanta Hawks,Providence,No,College Senior
+2,46,George Banks,F,United States,Miami Heat,UTEP,No,College Senior
+2,47,Tyus Edney,PG,United States,Sacramento Kings,UCLA,No,College Senior
+2,48,Mark Davis,G/F,United States,Minnesota Timberwolves,Texas Tech,No,College Senior
+2,49,Jerome Allen,G,United States,Minnesota Timberwolves,Pennsylvania,No,College Senior
+2,50,Martin Lewis,F,United States,Golden State Warriors,Seward County,No,College Sophmore
+2,51,Dejan Bodiroga,SF,FR Yugoslavia,Sacramento Kings,Olimpia (Stefanel) Milano (Italy),No,Playing Internationally
+2,52,Fred Hoiberg,SG,United States,Indiana Pacers,Iowa State,No,College Senior
+2,53,Constantin Popa,C,Romania,Los Angeles Clippers,Miami,No,College Senior
+2,54,Eurelijus Žukauskas ,C,Lithuania,Seattle SuperSonics,Neptūnas Klaipėda (Lithuania),No,Playing Internationally
+2,55,Michael McDonald,C,United States,Golden State Warriors,New Orleans,No,College Senior
+2,56,Chris Carr,G,United States,Phoenix Suns,Southern Illinois,No,College Sophmore
+2,57,Cuonzo Martin,G/F,United States,Atlanta Hawks,Purdue,No,College Senior
+2,58,Don Reid,F,United States,Detroit Pistons,Georgetown,No,College Senior
