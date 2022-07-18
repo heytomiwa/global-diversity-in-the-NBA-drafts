@@ -1,0 +1,78 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Brad Daugherty,C,United States,Cleveland Cavaliers,North Carolina,Yes,College Senior
+1,2,Len Bias,SF,United States,Boston Celtics,Maryland,Yes,College Senior
+1,3,Chris Washburn,C,United States,Golden State Warriors,NC State,No,College Sophmore
+1,4,Chuck Person,SF,United States,Indiana Pacers,Auburn,No,College Senior
+1,5,Kenny Walker,SF,United States,New York Knicks,Kentucky,No,College Senior
+1,6,William Bedford,C,United States,Phoenix Suns,Memphis State,No,College Junior
+1,7,Roy Tarpley,C,United States,Dallas Mavericks,Michigan,Yes,College Senior
+1,8,Ron Harper,SG,United States,Cleveland Cavaliers *,Miami,No,College Senior
+1,9,Brad Sellers,C,United States,Chicago Bulls,Ohio State,No,College Senior
+1,10,Johnny Dawkins,PG,United States,San Antonio Spurs,Duke,No,College Senior
+1,11,John Salley,PF,United States,Detroit Pistons,Georgia Tech,Yes,College Senior
+1,12,John Williams,PF,United States,Washington Bullets,LSU,No,College Sophmore
+1,13,Dwayne Washington,PG,United States,New Jersey Nets,Syracuse,No,College Junior
+1,14,Walter Berry,SF/PF,United States,Portland Trail Blazers,St. John's,No,College Senior
+1,15,Dell Curry,SG/SF,United States,Utah Jazz,Virginia Tech,No,College Senior
+1,16,Maurice Martin,SF,United States,Denver Nuggets,Saint Joseph's,Yes,College Senior
+1,17,Harold Pressley,SF,United States,Sacramento Kings,Villanova,Yes,College Senior
+1,18,Mark Alarie,PF,United States,Denver Nuggets,Duke,No,College Senior
+1,19,Billy Thompson,SF,United States,Atlanta Hawks,Louisville,No,College Senior
+1,20,Buck Johnson,SF,United States,Houston Rockets,Alabama,No,College Senior
+1,21,Anthony Jones,SF,United States,Washington Bullets,UNLV,Yes,College Senior
+1,22,Scott Skiles,PG,United States,Milwaukee Bucks,Michigan State,No,College Senior
+1,23,Ken Barlow,PF,United States,Los Angeles Lakers,Notre Dame,No,College Senior
+1,24,Arvydas Sabonis^,C,Soviet Union,Portland Trail Blazers,Zalgiris,Yes,College Sophmore
+2,25,Mark Price,PG,United States,"Dallas Mavericks, traded on draft day to the Cleveland Cavaliers",Georgia Tech,Yes,College Senior
+2,26,Greg Dreiling,C,United States,Indiana Pacers,Kansas,No,College Senior
+2,27,Dennis Rodman^,PF,United States,Detroit Pistons,Southeastern Oklahoma State,No,College Sophmore
+2,28,Larry Krystkowiak,PF,United States,Chicago Bulls,Montana,No,College Senior
+2,29,Johnny Newman,SF,United States,Cleveland Cavaliers,Richmond,No,College Senior
+2,30,Nate McMillan,PG,United States,Seattle SuperSonics,NC State,No,College Senior
+2,31,Joe Ward,SF,United States,Phoenix Suns,Georgia,No,College Senior
+2,32,Cedric Henderson,PF,United States,Atlanta Hawks,Georgia,No,College Senior
+2,33,Kevin Duckworth,C,United States,San Antonio Spurs,Eastern Illinois,No,College Senior
+2,34,Johnny Rogers,PF,Spain,Sacramento Kings,UC Irvine,No,College Senior
+2,35,Milt Wagner,SG,United States,Dallas Mavericks,Louisville,No,College Senior
+2,36,Steve Mitchell,PG,United States,Washington Bullets,UAB,No,College Senior
+2,37,Panagiotis Fasoulas,C,Greece,Portland Trail Blazers,NC State,No,College Senior
+2,38,Lemone Lampley,C,United States,Seattle SuperSonics,DePaul,No,College Senior
+2,39,Rafael Addison,SF,United States,Phoenix Suns,Syracuse,No,College Senior
+2,40,Augusto Binelli,C,Italy,Atlanta Hawks,Virtus Bologna (Italy),No,Playing Internationally
+2,41,Otis Smith,SG,United States,Denver Nuggets,Jacksonville,No,College Senior
+2,42,Ron Kellogg,SF,United States,Atlanta Hawks,Kansas,No,College Senior
+2,43,Dave Feitl,C,United States,Houston Rockets,UTEP,No,College Senior
+2,44,David Wingate,SG,United States,Philadelphia 76ers,Georgetown,No,College Senior
+2,45,Keith Smith,PG,United States,Milwaukee Bucks,Loyola Marymount,No,College Senior
+2,46,Jeff Hornacek,SG,United States,Phoenix Suns,Iowa State,No,College Senior
+2,47,Michael Jackson,PG,United States,New York Knicks,Georgetown,No,College Senior
+3,48,Forrest McKenzie,SF,United States,San Antonio Spurs,Loyola Marymount,No,College Senior
+3,50,Kevin Henderson,PG,United States,Cleveland Cavaliers,Cal State Fullerton,No,College Senior
+3,51,Mike Williams,PF/SF,United States,Golden State Warriors,Bradley,No,College Senior
+3,52,Ricky Wilson,PG,United States,Chicago Bulls,George Mason,No,College Senior
+3,53,Tod Murphy,PF,United States,Seattle SuperSonics,UC Irvine,No,College Senior
+3,54,Dwayne Polee,SG,United States,Los Angeles Clippers,Pepperdine,No,College Senior
+3,55,Kenny Gattison,PF,United States,Phoenix Suns,Old Dominion,No,College Senior
+3,57,Bruce Douglas,SG,United States,Sacramento Kings,Illinois,No,College Senior
+3,58,David Henderson,PG,United States,Washington Bullets,Duke,No,College Senior
+3,59,Wendell Alexis,PF,United States,Golden State Warriors,Syracuse,No,College Senior
+3,60,Dražen Petrović^,SG,Yugoslavia,Portland Trail Blazers,Cibona (Yugoslavia),No,Playing Internationally
+3,61,John Shasky,C,United States,Utah Jazz,Minnesota,No,College Senior
+3,65,Dave Hoppen,C,United States,Atlanta Hawks,Nebraska,No,College Senior
+3,66,Anthony Bowie,SG,United States,Houston Rockets,Oklahoma,No,College Senior
+3,67,Ron Rowan,SG,United States,Philadelphia 76ers,St. John's,No,College Senior
+3,69,Andre Turner,PG,United States,Los Angeles Lakers,Memphis State,No,College Senior
+3,70,Jim Les,PG,United States,Atlanta Hawks,Bradley,No,College Senior
+4,74,Scott Meents,PF,United States,Chicago Bulls,Illinois,No,College Senior
+4,77,Grant Gondrezick,SG,United States,Phoenix Suns,Pepperdine,No,College Senior
+4,85,Myron Jackson,PG,United States,Dallas Mavericks,Arkansas–Little Rock,No,College Senior
+4,89,Conner Henry,SG,United States,Houston Rockets,UC Santa Barbara,No,College Senior
+5,95,Richard Rellford,SF,United States,Indiana Pacers,Michigan,No,College Senior
+5,97,Clinton Smith,SG,United States,Golden State Warriors,Cleveland State,No,College Senior
+5,99,Dominic Pressley,PG,United States,Seattle SuperSonics,Boston College,No,College Senior
+5,100,Steffond Johnson,PF,United States,Los Angeles Clippers,San Diego State,No,College Senior
+6,120,Pete Myers,G/SF,United States,Chicago Bulls,Arkansas–Little Rock,No,College Senior
+6,122,Curtis Kitchen,PF,United States,Seattle SuperSonics,South Florida,No,College Sophmore
+6,124,Tim Kempton,PF,United States,Los Angeles Clippers,Notre Dame,No,College Senior
+6,133,Anthony Frederick,SF,United States,Denver Nuggets,Pepperdine,No,College Senior
+6,134,Alexander Volkov,C,Soviet Union,Atlanta Hawks,Budivelnik Kiev (USSR),No,Playing Internationally

@@ -1,4 +1,764 @@
 Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status,Draft year
+1,1,Mychal Thompson,F/C,Bahamas,Portland Trail Blazers,Minnesota,Yes,College Senior,1978
+1,2,Phil Fordx,G,United States,Kansas City Kings,North Carolina,Yes,College Senior,1978
+1,3,Rick Robey,F/C,United States,Indiana Pacers,Kentucky,Yes,College Senior,1978
+1,4,Micheal Ray Richardson,G/F,United States,New York Knicks,Montana,Yes,College Senior,1978
+1,5,Purvis Short,G/F,United States,Golden State Warriors,Jackson State,Yes,College Senior,1978
+1,6,Larry Bird^,F,United States,Boston Celtics,Indiana State,No,College Junior,1978
+1,7,Ron Brewer,G,United States,Portland Trail Blazers,Arkansas,Yes,College Senior,1978
+1,8,Freeman Williams,G/F,United States,Boston Celtics,Portland State,Yes,College Senior,1978
+1,9,Reggie Theus,G,United States,Chicago Bulls,UNLV,No,College Junior,1978
+1,10,Butch Lee,G,Puerto Rico,Atlanta Hawks,Marquette,No,College Senior,1978
+1,11,James Hardy,F/C,United States,New Orleans Jazz,San Francisco,Yes,College Freshman,1978
+1,12,George Johnson,F/C,United States,Milwaukee Bucks,St. John's,Yes,College Senior,1978
+1,13,Winford Boynes,G/F,United States,New Jersey Nets,San Francisco,Yes,College Freshman,1978
+1,14,Roger Phegley,G/F,United States,Washington Bullets,Bradley,No,College Senior,1978
+1,15,Mike Mitchell,F,United States,Cleveland Cavaliers,Auburn,Yes,College Senior,1978
+1,16,Jack Givens,G/F,United States,Atlanta Hawks,Kentucky,Yes,College Senior,1978
+1,17,Rod Griffin,F,United States,Denver Nuggets,Wake Forest,Yes,College Senior,1978
+1,18,Dave Corzine,C,United States,Washington Bullets,DePaul,Yes,College Senior,1978
+1,19,Marty Byrnes,F,United States,Phoenix Suns,Syracuse,No,College Senior,1978
+1,20,Frankie Sanders,G/F,United States,San Antonio Spurs,Southern,No,College Sophmore,1978
+1,21,Mike Evans,G,United States,Denver Nuggets,Kansas State,Yes,College Senior,1978
+1,22,Raymond Townsend,G,United States,Golden State Warriors,UCLA,Yes,College Senior,1978
+2,23,Terry Tyler,G/F,United States,Detroit Pistons,Detroit,Yes,College Senior,1978
+2,24,Keith Herron,G/F,United States,Portland Trail Blazers,Villanova,Yes,College Senior,1978
+2,25,Rick Wilson,G,United States,Atlanta Hawks,Louisville,Yes,College Senior,1978
+2,26,Ron Carter,G,United States,Los Angeles Lakers,VMI,Yes,College Senior,1978
+2,27,Wayne Radford,G,United States,Indiana Pacers,Indiana,No,College Senior,1978
+2,28,Buster Matheney,F,United States,Houston Rockets,Utah,Yes,College Senior,1978
+2,29,John Long,G/F,United States,Detroit Pistons,Detroit,No,College Senior,1978
+2,30,Jeff Judkins,G/F,United States,Boston Celtics,Utah,Yes,College Senior,1978
+2,31,Marvin Johnson,F,United States,Chicago Bulls,New Mexico,No,College Senior,1978
+2,32,John Rudd,F,United States,New York Knicks,McNeese State,Yes,College Senior,1978
+2,33,Harry Davis,F,United States,Cleveland Cavaliers,Florida State,No,College Senior,1978
+2,34,Greg Bunch,F,United States,New York Knicks,Cal State Fullerton,No,College Senior,1978
+2,35,Tommie Green,G,United States,New Orleans Jazz,Southern,Yes,College Sophmore,1978
+2,36,Maurice Cheeks^,G,United States,Philadelphia 76ers,West Texas State,Yes,College Senior,1978
+2,37,Terry Sykes,F,United States,Washington Bullets,Grambling State,No,College Senior,1978
+2,38,Lew Massey,G,United States,Los Angeles Lakers,UNC Charlotte,No,College Senior,1978
+2,39,James Lee,F,United States,Seattle SuperSonics,Kentucky,No,College Senior,1978
+2,40,Wayne Cooper,F/C,United States,Golden State Warriors,New Orleans,Yes,College Senior,1978
+2,41,Jerome Whitehead,F/C,United States,Buffalo Braves,Marquette,Yes,College Senior,1978
+2,42,Keven McDonald,F,United States,Seattle SuperSonics,Pennsylvania,Yes,College Senior,1978
+2,43,Glenn Hagan,G,United States,Philadelphia 76ers,St. Bonaventure,No,College Senior,1978
+2,44,Clemon Johnson,F/C,United States,Portland Trail Blazers,Florida A&M,No,College Senior,1978
+3,46,Hollis Copeland,F,United States,Denver Nuggets,Rutgers,Yes,College Senior,1978
+3,47,Billy Ray Bates,G,United States,Houston Rockets,Kentucky State,No,College Senior,1978
+3,49,Jeff Cook,F/C,United States,Kansas City Kings,Idaho State,No,College Senior,1978
+3,55,Marc Iavaroni,F,United States,New York Knicks,Virginia,No,College Senior,1978
+3,57,Kenny Higgs,G,United States,Cleveland Cavaliers,LSU,No,College Senior,1978
+3,59,Pat Cummings,F/C,United States,Milwaukee Bucks,Cincinnati,No,College Senior,1978
+3,60,Michael Cooper,G/F,United States,Los Angeles Lakers,New Mexico,No,College Senior,1978
+3,62,Dave Batton,C,United States,New Jersey Nets,Notre Dame,Yes,College Senior,1978
+3,63,Joel Kramer,F/C,United States,Phoenix Suns,San Diego State,No,College Senior,1978
+3,64,Gerald Henderson,G,United States,San Antonio Spurs,Virginia Commonwealth,No,College Senior,1978
+4,67,Jackie Robinson,F,United States,Houston Rockets,UNLV,Yes,College Senior,1978
+4,70,Geoff Crompton,C,United States,Kansas City Kings,North Carolina,No,College Senior,1978
+4,80,Otis Howard,F,United States,Milwaukee Bucks,Austin Peay,No,College Senior,1978
+4,81,Lawrence Boston,F,United States,Washington Bullets,Maryland,No,College Senior,1978
+4,84,Walter Jordan,F,United States,New Jersey Nets,Purdue,Yes,College Senior,1978
+4,85,Bob Miller,F,United States,Phoenix Suns,Cincinnati,No,College Senior,1978
+4,87,Brett Vroman,C,United States,Philadelphia 76ers,UNLV,No,College Senior,1978
+5,96,Duck Williams,G,United States,New Orleans Jazz,Notre Dame,No,College Senior,1978
+5,101,Bubba Wilson,G,United States,Golden State Warriors,Western Carolina,No,College Senior,1978
+5,104,Carlos Terry,G/F,United States,Los Angeles Lakers,Winston-Salem State,No,College Senior,1978
+5,105,Ralph Drollinger,C,United States,Seattle SuperSonics,UCLA,No,College Senior,1978
+5,107,Andre Wakefield,G,United States,Phoenix Suns,Loyola,No,College Senior,1978
+5,110,Clay Johnson,G,United States,Portland Trail Blazers,Missouri,No,College Senior,1978
+6,118,John Douglas,G,United States,New Orleans Jazz,Kansas,No,College Senior,1978
+7,133,Stan Pietkiewicz,G/F,United States,Buffalo Braves,Auburn,No,College Senior,1978
+7,146,Kim Anderson,F,United States,Milwaukee Bucks,Missouri,No,College Senior,1978
+7,149,Steve Malovic,C,United States,Phoenix Suns,San Diego State,No,College Junior,1978
+8,157,Earl Evans,F,United States,Detroit Pistons,UNLV,No,College Junior,1978
+8,158,Carl Kilpatrick,C,United States,New Orleans Jazz,Northeast Louisiana,No,College Senior,1978
+8,159,Chubby Cox,G,United States,Chicago Bulls,San Francisco,No,College Freshman,1978
+10,190,Rickey Williams,G,United States,New Orleans Jazz,Long Beach State,No,College Senior,1978
+1,1,Magic Johnson^,G/F,United States,Los Angeles Lakers,Michigan State,Yes,College Sophmore,1979
+1,2,David Greenwood,F/C,United States,Chicago Bulls,UCLA,No,College Senior,1979
+1,3,Bill Cartwright,C,United States,New York Knicks,San Francisco,Yes,College Freshman,1979
+1,4,Greg Kelser,F,United States,Detroit Pistons,Michigan State,No,College Senior,1979
+1,5,Sidney Moncrief^,G,United States,Milwaukee Bucks,Arkansas,Yes,College Senior,1979
+1,6,James Bailey,F/C,United States,Seattle SuperSonics,Rutgers,Yes,College Senior,1979
+1,7,Vinnie Johnson,G,United States,Seattle SuperSonics,Baylor,Yes,College Senior,1979
+1,8,Calvin Natt,F,United States,New Jersey Nets,Northeast Louisiana,Yes,College Senior,1979
+1,9,Larry Demic,F/C,United States,New York Knicks,Arizona,Yes,College Senior,1979
+1,10,Roy Hamilton,G,United States,Detroit Pistons,UCLA,Yes,College Senior,1979
+1,11,Cliff Robinson,F,United States,New Jersey Nets,USC,Yes,College Sophmore,1979
+1,12,Jim Paxson,G/F,United States,Portland Trail Blazers,Dayton,No,College Senior,1979
+1,13,Dudley Bradley,G/F,United States,Indiana Pacers,North Carolina,Yes,College Senior,1979
+1,14,Brad Holland,G,United States,Los Angeles Lakers,UCLA,No,College Senior,1979
+1,15,Phil Hubbard,F/C,United States,Detroit Pistons,Michigan,Yes,College Senior,1979
+1,16,Jim Spanarkel,G/F,United States,Philadelphia 76ers,Duke,No,College Senior,1979
+1,17,Lee Johnson,F,United States,Houston Rockets,East Texas State,No,College Senior,1979
+1,18,Reggie King,F,United States,Kansas City Kings,Alabama,No,College Senior,1979
+1,19,Wiley Peck,G,United States,San Antonio Spurs,Mississippi State,No,College Senior,1979
+1,20,Larry Knight,F,United States,Utah Jazz,Loyola,Yes,College Senior,1979
+1,21,Sly Williams,G/F,United States,New York Knicks,Rhode Island,Yes,College Junior,1979
+1,22,Kyle Macy,G,United States,Phoenix Suns,Kentucky,Yes,College Senior,1979
+2,23,Tico Brown,G,United States,Utah Jazz,Georgia Tech,No,College Senior,1979
+2,24,Johnny High,G,United States,Phoenix Suns,Nevada,Yes,College Senior,1979
+2,25,Oliver Mack,G,United States,Los Angeles Lakers,East Carolina,Yes,College Senior,1979
+2,26,Bruce Flowers,F,United States,Cleveland Cavaliers,Notre Dame,No,College Senior,1979
+2,27,Reggie Carter,G,United States,New York Knicks,St. John's,No,College Senior,1979
+2,28,Danny Salisbury,F,United States,Golden State Warriors,Pan American,Yes,College Senior,1979
+2,29,Tony Price,G,United States,Detroit Pistons,Pennsylvania,Yes,College Senior,1979
+2,30,Gary Garland,G,United States,Denver Nuggets,DePaul,Yes,College Senior,1979
+2,31,Edgar Jones,F/C,United States,Milwaukee Bucks,Nevada,No,College Senior,1979
+2,32,Tony Zeno,F,United States,Indiana Pacers,Arizona State,No,College Senior,1979
+2,33,Lawrence Butler,G,United States,Chicago Bulls,Idaho State,Yes,College Senior,1979
+2,34,Kim Goetz,F,United States,New York Knicks,San Diego State,Yes,College Senior,1979
+2,35,James Bradley,F,United States,Atlanta Hawks,Memphis State,No,College Senior,1979
+2,36,Clint Richardson,G,United States,Philadelphia 76ers,Seattle,Yes,College Senior,1979
+2,37,Bernard Toone,F,United States,Philadelphia 76ers,Marquette,No,College Senior,1979
+2,38,Larry Wilson,F,United States,Atlanta Hawks,Nicholls State,Yes,College Senior,1979
+2,39,Victor King,F,United States,Los Angeles Lakers,Louisiana Tech,No,College Senior,1979
+2,40,Andrew Fields,F,United States,Portland Trail Blazers,Cheyney State,Yes,College Senior,1979
+2,41,Mark Young,F,United States,Los Angeles Lakers,Fairfield,Yes,College Senior,1979
+2,42,Paul Mokeski,F/C,United States,Houston Rockets,Kansas,Yes,College Senior,1979
+2,43,Johnny Moore,G,United States,Seattle SuperSonics,Texas,No,College Senior,1979
+2,44,Joe DeSantis,G,United States,Washington Bullets,Fairfield,No,College Senior,1979
+3,45,Arvid Kramer,C,United States,Utah Jazz,Augustana,No,College Senior,1979
+3,47,Calvin Garrett,F,United States,Chicago Bulls,Oral Roberts,Yes,College Senior,1979
+3,48,Terry Duerod,G,United States,Detroit Pistons,Detroit,No,College Senior,1979
+3,49,Cedrick Hordges,F/C,United States,Chicago Bulls,South Carolina,No,College Sophmore,1979
+3,50,Geoff Huston,G,United States,New York Knicks,Texas Tech,No,College Senior,1979
+3,53,Wayne Kreklow,G,United States,Boston Celtics,Drake,Yes,College Senior,1979
+3,54,Lynbert Johnson,G/F,United States,Golden State Warriors,Wichita State,No,College Senior,1979
+3,58,Earl Cureton,F/C,United States,Philadelphia 76ers,Detroit,No,College Senior,1979
+3,59,Ricardo Brown,PG,Philippines/,Houston Rockets,Pepperdine,No,College Senior,1979
+3,62,Terry Crosby,G,United States,Kansas City Kings,Tennessee,No,College Senior,1979
+3,63,Sylvester Norris,C,United States,San Antonio Spurs,Jackson State,No,College Senior,1979
+3,65,Bill Laimbeer,C,United States,Cleveland Cavaliers,Notre Dame,Yes,College Senior,1979
+4,67,Greg Deane,G,United States,Utah Jazz,Utah,No,College Senior,1979
+4,69,Nikos Galis,G,Greece,Boston Celtics,Seton Hall,No,College Senior,1979
+4,73,James Donaldson,C,Great Britain/,Seattle SuperSonics,Washington State,Yes,College Senior,1979
+4,82,Jerry Sichting,G,United States,Golden State Warriors,Purdue,Yes,College Senior,1979
+4,83,Mike Niles,F,United States,Philadelphia 76ers,Cal State Fullerton,No,College Senior,1979
+4,85,John McCullough,G,United States,Kansas City Kings,Oklahoma,No,College Senior,1979
+5,98,Billy Reid,G,United States,Indiana Pacers,San Francisco,No,College Freshman,1979
+5,104,Allen Leavell,G,United States,Houston Rockets,Oklahoma City,No,College Senior,1979
+5,107,Mark Eaton,C,United States,Phoenix Suns,Cypress JC,No,College Freshman,1979
+8,165,Charles Jones,F/C,United States,Phoenix Suns,Albany State,No,College Senior,1979
+10,185,Paul Dawkins,F,United States,Utah Jazz,Northern Illinois,No,College Senior,1979
+10,198,Keith McCord,G,United States,Philadelphia 76ers,UAB,No,College Senior,1979
+1,1,Joe Barry Carroll,F/C,United States,Golden State Warriors,Purdue,Yes,College Senior,1980
+1,2,Darrell Griffith,G,United States,Utah Jazz,Louisville,No,College Senior,1980
+1,3,Kevin McHale^,F/C,United States,Boston Celtics,Minnesota,Yes,College Senior,1980
+1,4,Kelvin Ransey,G,United States,Chicago Bulls,Ohio State,Yes,College Senior,1980
+1,5,James Ray,F,United States,Denver Nuggets,Jacksonville,No,College Senior,1980
+1,6,Mike O'Koren,G/F,United States,New Jersey Nets,North Carolina,No,College Senior,1980
+1,7,Mike Gminski,C,United States,New Jersey Nets,Duke,Yes,College Senior,1980
+1,8,Andrew Toney,G,United States,Philadelphia 76ers,Southwestern Louisiana,Yes,College Sophmore,1980
+1,9,Michael Brooks,F,United States,San Diego Clippers,La Salle,Yes,College Senior,1980
+1,10,Ronnie Lester,G,United States,Portland Trail Blazers,Iowa,Yes,College Senior,1980
+1,11,Kiki Vandeweghe,F,United States,Dallas Mavericks,UCLA,No,College Senior,1980
+1,12,Mike Woodson,G/F,United States,New York Knicks,Indiana,No,College Senior,1980
+1,13,Rickey Brown,F/C,United States,Golden State Warriors,Mississippi State,Yes,College Senior,1980
+1,14,Wes Matthews,G,United States,Washington Bullets,Wisconsin,Yes,College Junior,1980
+1,15,Reggie Johnson,F/C,United States,San Antonio Spurs,Tennessee,No,College Senior,1980
+1,16,Charles Whitney,G/F,United States,Kansas City Kings,NC State,No,College Senior,1980
+1,17,Larry Drew,G,United States,Detroit Pistons,Missouri,Yes,College Senior,1980
+1,18,Don Collins,G/F,United States,Atlanta Hawks,Washington State,No,College Senior,1980
+1,19,John Duren,G,United States,Utah Jazz,Georgetown,Yes,College Senior,1980
+1,20,Bill Hanzlik,G/F,United States,Seattle SuperSonics,Notre Dame,No,College Senior,1980
+1,21,Monti Davis,F,United States,Philadelphia 76ers,Tennessee State,No,College Senior,1980
+1,22,Chad Kinch,G,United States,Cleveland Cavaliers,UNC Charlotte,Yes,College Senior,1980
+1,23,Carl Nicks,G,United States,Denver Nuggets,Indiana State,Yes,College Senior,1980
+2,24,Larry Smith,F/C,United States,Golden State Warriors,Alcorn State,Yes,College Senior,1980
+2,25,Jeff Ruland,F/C,United States,Golden State Warriors,Iona,Yes,College Junior,1980
+2,26,Sam Worthen,F,United States,Chicago Bulls,Marquette,Yes,College Senior,1980
+2,27,John Stroud,F,United States,Houston Rockets,Mississippi,Yes,College Senior,1980
+2,28,Craig Shelton,F,United States,Atlanta Hawks,Georgetown,Yes,College Senior,1980
+2,29,Louis Orr,F,United States,Indiana Pacers,Syracuse,Yes,College Senior,1980
+2,30,Kenny Natt,G,United States,Indiana Pacers,Northeast Louisiana,Yes,College Senior,1980
+2,31,Wayne Robinson,F,United States,Los Angeles Lakers,Virginia Tech,Yes,College Senior,1980
+2,32,David Lawrence,F,United States,Portland Trail Blazers,McNeese State,Yes,College Senior,1980
+2,33,Bruce Collins,G/F,United States,Portland Trail Blazers,Weber State,No,College Senior,1980
+2,34,Roosevelt Bouie,C,United States,Dallas Mavericks,Syracuse,No,College Senior,1980
+2,35,Rick Mahorn,F/C,United States,Washington Bullets,Hampton,No,College Senior,1980
+2,36,DeWayne Scales,F,United States,New York Knicks,LSU,No,College Junior,1980
+2,37,Butch Carter,G,United States,Los Angeles Lakers,Indiana,Yes,College Senior,1980
+2,38,Terry Stotts,F,United States,Houston Rockets,Oklahoma,No,College Senior,1980
+2,39,Michael Wiley,F,United States,San Antonio Spurs,Long Beach State,Yes,College Senior,1980
+2,40,Dick Miller,F,United States,Indiana Pacers,Toledo,Yes,College Senior,1980
+2,41,Jawann Oldham,C,United States,Denver Nuggets,Seattle,Yes,College Senior,1980
+2,42,Kimberly Belton,F,United States,Phoenix Suns,Stanford,No,College Senior,1980
+2,43,Billy Williams,G,United States,Houston Rockets,Clemson,Yes,College Senior,1980
+2,44,Clyde Austin,G,United States,Philadelphia 76ers,NC State,No,College Senior,1980
+2,45,Brad Branson,F/C,United States,Detroit Pistons,SMU,Yes,College Senior,1980
+2,46,Arnette Hallman,F,United States,Boston Celtics,Purdue,No,College Senior,1980
+3,47,Kurt Nimphius,F/C,United States,Denver Nuggets,Arizona State,Yes,College Senior,1980
+3,50,James Wilkes,F,United States,Chicago Bulls,UCLA,No,College Senior,1980
+3,51,Ronnie Valentine,F,United States,Denver Nuggets,Old Dominion,No,College Senior,1980
+3,52,Lowes Moore,G,United States,New Jersey Nets,West Virginia,No,College Senior,1980
+3,56,Mike Harper,F/C,United States,Portland Trail Blazers,North Park,No,College Senior,1980
+3,57,David Britton,G,United States,Dallas Mavericks,Texas A&M,No,College Senior,1980
+3,58,Kurt Rambis,F,United States,New York Knicks,Santa Clara,No,College Senior,1980
+4,61,Rich Yonakor,F,United States,San Antonio Spurs,North Carolina,No,College Senior,1980
+4,66,Carl Bailey,C,United States,Seattle SuperSonics,Tuskegee,No,College Senior,1980
+4,70,Darwin Cook,G,United States,Detroit Pistons,Portland,No,College Senior,1980
+4,75,Rory Sparrow,G,United States,New Jersey Nets,Villanova,No,College Senior,1980
+4,87,Tony Jackson,G,United States,Los Angeles Lakers,Florida State,Yes,College Senior,1980
+5,93,Tony Fuller,G,United States,Detroit Pistons,Pepperdine,No,College Senior,1980
+5,99,Wally Rank,G/F,United States,San Diego Clippers,San Jose State,No,College Senior,1980
+5,103,Darrell Allums,F,United States,Dallas Mavericks,UCLA,No,College Senior,1980
+7,141,Lorenzo Romar,G,United States,Golden State Warriors,Washington,No,College Senior,1980
+8,168,John Stroeder,F,United States,Portland Trail Blazers,Montana,No,College Senior,1980
+8,169,Clarence Kea,F,United States,Dallas Mavericks,Lamar,No,College Senior,1980
+9,182,Billy Reid,G,United States,Golden State Warriors,San Francisco,No,College Freshman,1980
+1,1,Mark Aguirre,G/F,United States,Dallas Mavericks,DePaul,No,College Junior,1981
+1,2,Isiah Thomas^,G,United States,Detroit Pistons,Indiana,No,College Sophmore,1981
+1,3,Buck Williams,F/C,United States,New Jersey Nets,Maryland,No,College Junior,1981
+1,4,Al Wood,G/F,United States,Atlanta Hawks,North Carolina,Yes,College Senior,1981
+1,5,Danny Vranes,F,United States,Seattle SuperSonics,Utah,Yes,College Senior,1981
+1,6,Orlando Woolridge,F,United States,Chicago Bulls,Notre Dame,Yes,College Senior,1981
+1,7,Steve Johnson,F/C,United States,Kansas City Kings,Oregon State,Yes,College Senior,1981
+1,8,Tom Chambers,F/C,United States,San Diego Clippers,Utah,No,College Senior,1981
+1,9,Rolando Blackman,G,Panama,Dallas Mavericks,Kansas State,Yes,College Senior,1981
+1,10,Albert King,G/F,United States,New Jersey Nets,Maryland,Yes,College Senior,1981
+1,11,Frank Johnson,G,United States,Washington Bullets,Wake Forest,No,College Senior,1981
+1,12,Kelly Tripucka,G/F,United States,Detroit Pistons,Notre Dame,Yes,College Senior,1981
+1,13,Danny Schayes,F/C,United States,Utah Jazz,Syracuse,Yes,College Senior,1981
+1,14,Herb Williams,F/C,United States,Indiana Pacers,Ohio State,No,College Senior,1981
+1,15,Jeff Lamp,G/F,United States,Portland Trail Blazers,Virginia,No,College Senior,1981
+1,16,Darnell Valentine,G,United States,Portland Trail Blazers,Kansas,Yes,College Senior,1981
+1,17,Kevin Loder,G/F,United States,Kansas City Kings,Alabama State,Yes,College Senior,1981
+1,18,Ray Tolbert,F,United States,New Jersey Nets,Indiana,Yes,College Senior,1981
+1,19,Mike McGee,G/F,United States,Los Angeles Lakers,Michigan,No,College Senior,1981
+1,20,Larry Nance,F/C,United States,Phoenix Suns,Clemson,No,College Senior,1981
+1,21,Alton Lister,F/C,United States,Milwaukee Bucks,Arizona State,No,College Senior,1981
+1,22,Franklin Edwards,G,United States,Philadelphia 76ers,Cleveland State,No,College Senior,1981
+1,23,Charles Bradley,G,United States,Boston Celtics,Wyoming,No,College Senior,1981
+2,24,Jay Vincent,F,United States,Dallas Mavericks,Michigan State,No,College Senior,1981
+2,25,Tracy Jackson,G/F,United States,Boston Celtics,Notre Dame,Yes,College Senior,1981
+2,26,Brian Jackson,F,United States,Portland Trail Blazers,Utah State,Yes,College Senior,1981
+2,27,Howard Wood,F,United States,Utah Jazz,Tennessee,No,College Senior,1981
+2,28,Gene Banks,G/F,United States,San Antonio Spurs,Duke,Yes,College Senior,1981
+2,29,Eddie Johnson,G/F,United States,Kansas City Kings,Illinois,Yes,College Senior,1981
+2,30,Ed Rains,F,United States,San Antonio Spurs,South Alabama,Yes,College Sophmore,1981
+2,31,Danny Ainge,G/F,United States,Boston Celtics,Brigham Young,Yes,College Senior,1981
+2,32,Mike Olliver,G,United States,Chicago Bulls,Lamar,Yes,College Senior,1981
+2,33,Sam Williams,F,United States,Golden State Warriors,Arizona State,Yes,College Senior,1981
+2,34,Ken Green,F,United States,Denver Nuggets,Pan American,Yes,College Senior,1981
+2,35,Charles Davis,F,United States,Washington Bullets,Vanderbilt,Yes,College Senior,1981
+2,36,Ray Blume,G,United States,Indiana Pacers,Oregon State,Yes,College Senior,1981
+2,37,Al Leslie,G,United States,Indiana Pacers,Bucknell,No,College Senior,1981
+2,38,Clyde Bradshaw,G,United States,Atlanta Hawks,DePaul,Yes,College Senior,1981
+2,39,Harvey Knuckles,F,United States,Los Angeles Lakers,Toledo,Yes,College Senior,1981
+2,40,Greg Cook,F,United States,New York Knicks,LSU,No,College Senior,1981
+2,41,Claude Gregory,F,United States,Washington Bullets,Wisconsin,Yes,College Senior,1981
+2,42,Elvis Rolle,F/C,Bahamas,Los Angeles Lakers,Florida State,No,College Senior,1981
+2,43,Elston Turner,G/F,United States,Dallas Mavericks,Mississippi,Yes,College Senior,1981
+2,44,Steve Lingenfelter,F,United States,Washington Bullets,South Dakota State,Yes,College Sophmore,1981
+2,45,Ed Turner,F,United States,Houston Rockets,Texas A&I,Yes,College Senior,1981
+2,46,Vernon Smith,F,United States,Philadelphia 76ers,Texas A&M,No,College Senior,1981
+3,49,David Burns,G,United States,New Jersey Nets,Saint Louis,No,College Senior,1981
+3,52,Rudy Macklin,G/F,United States,Atlanta Hawks,LSU,No,College Senior,1981
+3,53,Mark Radford,G,United States,Seattle SuperSonics,Oregon State,No,College Senior,1981
+3,54,Jim Smith,F,United States,San Diego Clippers,Ohio State,No,College Senior,1981
+3,55,Mickey Dillard,G,United States,Cleveland Cavaliers,Florida State,Yes,College Senior,1981
+3,57,Frank Brickowski,F/C,United States,New York Knicks,Penn State,Yes,College Senior,1981
+3,61,Pétur Guðmundsson,C,Iceland,Portland Trail Blazers,Washington,No,College Senior,1981
+3,66,Craig Dykema,F,United States,Phoenix Suns,Long Beach State,No,College Senior,1981
+4,72,Edmund Sherod,G,United States,New Jersey Nets,VCU,No,College Senior,1981
+4,76,Lewis Lloyd,G/F,United States,Golden State Warriors,Drake,Yes,College Senior,1981
+4,78,Kenny Dennard,F,United States,Kansas City Kings,Duke,Yes,College Senior,1981
+4,81,Larry Spriggs,F,United States,Houston Rockets,Howard,No,College Senior,1981
+4,85,Peter Verhoeven,F,United States,Portland Trail Blazers,Fresno State,No,College Freshman,1981
+4,86,Alex Bradley,F,United States,New York Knicks,Villanova,No,College Senior,1981
+4,88,Kevin McKenna,G/F,United States,Los Angeles Lakers,Creighton,No,College Senior,1981
+5,95,Joe Cooper,F/C,United States,New Jersey Nets,Colorado,No,College Senior,1981
+5,102,Hank McDowell,F/C,United States,Golden State Warriors,Memphis State,No,College Senior,1981
+5,103,Garry Witts,G/F,United States,Washington Bullets,Holy Cross,No,College Senior,1981
+6,130,Roger Burkman,G,United States,Chicago Bulls,Louisville,No,College Senior,1981
+7,150,Clinton Wheeler,G,United States,Kansas City Kings,William Paterson,No,College Senior,1981
+8,165,Bobby Cattage,F,United States,Utah Jazz,Auburn,No,College Senior,1981
+10,210,Tony Gwynn,G,United States,San Diego Clippers,San Diego State,No,College Senior,1981
+10,211,Derrick Rowland,G,United States,Denver Nuggets,Potsdam State,No,College Senior,1981
+10,216,Kenny Easley,G,United States,Chicago Bulls,UCLA,No,College Senior,1981
+1,1,James Worthy^,SF,United States,Los Angeles Lakers,North Carolina,Yes,College Junior,1982
+1,2,Terry Cummings,PF,United States,San Diego Clippers,DePaul,No,College Junior,1982
+1,3,Dominique Wilkins^,SF,United States,Utah Jazz,Georgia,Yes,College Junior,1982
+1,4,Bill Garnett,SF,United States,Dallas Mavericks,Wyoming,No,College Senior,1982
+1,5,LaSalle Thompson,C/PF,United States,Kansas City Kings,Texas,No,College Junior,1982
+1,6,Trent Tucker,SG,United States,New York Knicks,Minnesota,No,College Senior,1982
+1,7,Quintin Dailey,SG,United States,Chicago Bulls,San Francisco,No,College Freshman,1982
+1,8,Clark Kellogg,PF,United States,Indiana Pacers,Ohio State,No,College Junior,1982
+1,9,Cliff Levingston,PF,United States,Detroit Pistons,Wichita State,No,College Junior,1982
+1,10,Keith Edmonson,SG,United States,Atlanta Hawks,Purdue,No,College Senior,1982
+1,11,Fat Lever,PG,United States,Portland Trail Blazers,Arizona State,No,College Senior,1982
+1,12,John Bagley,PG,United States,Cleveland Cavaliers,Boston College,Yes,College Junior,1982
+1,13,Sleepy Floyd,SG,United States,New Jersey Nets,Georgetown,No,College Senior,1982
+1,14,Lester Conner,PG,United States,Golden State Warriors,Oregon State,No,College Senior,1982
+1,15,David Thirdkill,SF,United States,Phoenix Suns,Bradley,Yes,College Senior,1982
+1,16,Terry Teagle,SG,United States,Houston Rockets,Baylor,No,College Senior,1982
+1,17,Brook Steppe,SG,United States,Kansas City Kings,Georgia Tech,Yes,College Senior,1982
+1,18,Ricky Pierce,SF,United States,Detroit Pistons,Rice,Yes,College Senior,1982
+1,19,Rob Williams,PG,United States,Denver Nuggets,Houston,Yes,College Junior,1982
+1,20,Paul Pressey,SF,United States,Milwaukee Bucks,Tulsa,No,College Senior,1982
+1,21,Eddie Phillips,SF,United States,New Jersey Nets,Alabama,Yes,College Senior,1982
+1,22,Mark McNamara,C,United States,Philadelphia 76ers,California,No,College Senior,1982
+1,23,Darren Tillis,C,United States,Boston Celtics,Cleveland State,No,College Senior,1982
+2,24,Oliver Robinson,SG,United States,San Antonio Spurs,UAB,No,College Senior,1982
+2,25,Bryan Warrick,SG,United States,Washington Bullets,Saint Joseph's,No,College Senior,1982
+2,26,Ricky Frazier,SF,United States,Chicago Bulls,Missouri,No,College Senior,1982
+2,27,Fred Roberts,PF,United States,Milwaukee Bucks,BYU,No,College Senior,1982
+2,28,Dave Magley,PF,United States,Cleveland Cavaliers,Kansas,No,College Senior,1982
+2,29,Scott Hastings,F/C,United States,New York Knicks,Arkansas,No,College Senior,1982
+2,30,Wallace Bryant,C,United States,Chicago Bulls,San Francisco,No,College Freshman,1982
+2,31,Rod Higgins,F/C,United States,Chicago Bulls,Fresno State,No,College Freshman,1982
+2,32,Richard Anderson,PF,United States,San Diego Clippers,UC Santa Barbara,No,College Senior,1982
+2,33,Linton Townes,SF,United States,Portland Trail Blazers,James Madison,No,College Senior,1982
+2,34,Vince Taylor,SF,United States,New York Knicks,Duke,No,College Senior,1982
+2,35,Derek Smith,SG,United States,Golden State Warriors,Louisville,No,College Senior,1982
+2,36,J. J. Anderson,SF,United States,Philadelphia 76ers,Bradley,No,College Senior,1982
+2,37,Audie Norris,C,United States,Portland Trail Blazers,Jackson State,No,College Senior,1982
+2,38,Wayne Sappleton,F,United States,Golden State Warriors,Loyola,Yes,College Senior,1982
+2,39,Kevin Magee,PF,United States,Phoenix Suns,UC Irvine,No,College Senior,1982
+2,40,Guy Morgan,G,United States,Indiana Pacers,Wake Forest,No,College Senior,1982
+2,41,Dwight Anderson,G,United States,Washington Bullets,USC,No,College Senior,1982
+2,42,Jeff Taylor,SG,United States,Houston Rockets,Texas Tech,No,College Senior,1982
+2,43,Jose Slaughter,SG,United States,Indiana Pacers,Portland,No,College Senior,1982
+2,44,Mike Gibson,F,United States,Washington Bullets,USC Upstate,No,College Senior,1982
+2,45,Russ Schoene,F/C,United States,Philadelphia 76ers,Chattanooga,No,College Senior,1982
+2,46,Tony Guy,G,United States,Boston Celtics,Kansas,No,College Senior,1982
+3,47,Mike Wilson,G,United States,Cleveland Cavaliers,Marquette,No,College Senior,1982
+3,48,Craig Hodges,SG,United States,San Diego Clippers,Long Beach State,No,College Senior,1982
+3,50,Corny Thompson,PF,United States,Dallas Mavericks,Connecticut,No,College Senior,1982
+3,51,Jim Johnstone,PF/C,United States,Kansas City Kings,Wake Forest,No,College Senior,1982
+3,54,Hutch Jones,PG,United States,San Diego Clippers,Vanderbilt,No,College Senior,1982
+3,55,Jerry Eaves,PG,United States,Utah Jazz,Louisville,No,College Senior,1982
+3,56,Joe Kopicki,PF,United States,Atlanta Hawks,Detroit,No,College Senior,1982
+3,60,Chris Engler,C,United States,Golden State Warriors,Wyoming,No,College Senior,1982
+3,63,Chuck Nevitt,C,United States,Houston Rockets,NC State,No,College Senior,1982
+3,65,John Greig,SF,United States,Seattle SuperSonics,Oregon,No,College Senior,1982
+3,69,Perry Moss,PG,United States,Boston Celtics,Northeastern,No,College Senior,1982
+4,72,Mark Eaton,C,United States,Utah Jazz,UCLA,No,College Senior,1982
+4,74,Mike Sanders,SG,United States,Kansas City Kings,UCLA,No,College Senior,1982
+4,76,Chuck Aleksinas,C,United States,Chicago Bulls,Connecticut,No,College Senior,1982
+4,78,Walker Russell,SG,United States,Detroit Pistons,Western Michigan,No,College Senior,1982
+4,82,Tony Brown,SF/SG,United States,New Jersey Nets,Arkansas,No,College Senior,1982
+4,86,Rory White,PF,United States,Phoenix Suns,South Alabama,No,College Sophmore,1982
+6,138,John Schweitz,SG,United States,Boston Celtics,Richmond,No,College Senior,1982
+7,140,Eddie Hughes,PG,United States,San Diego Clippers,Colorado State,No,College Senior,1982
+8,166,Ed Nealy,PF,United States,Kansas City Kings,Kansas State,No,College Senior,1982
+10,221,Dale Wilkinson,F,United States,Phoenix Suns,Idaho State,No,College Senior,1982
+1,1,Ralph Sampson^,C,United States,Houston Rockets,Virginia,No,College Senior,1983
+1,2,Steve Stipanovich,C,United States,Indiana Pacers,Missouri,No,College Senior,1983
+1,3,Rodney McCray,SF,United States,Houston Rockets,Louisville,Yes,College Senior,1983
+1,4,Byron Scott,SG,United States,San Diego Clippers,Arizona State,No,College Junior,1983
+1,5,Sidney Green,PF,United States,Chicago Bulls,UNLV,No,College Senior,1983
+1,6,Russell Cross,C,United States,Golden State Warriors,Purdue,No,College Junior,1983
+1,7,Thurl Bailey,PF,United States,Utah Jazz,NC State,No,College Senior,1983
+1,8,Antoine Carr,PF,United States,Detroit Pistons,Wichita State,No,College Senior,1983
+1,9,Dale Ellis,SG,United States,Dallas Mavericks,Tennessee,No,College Senior,1983
+1,10,Jeff Malone,SG,United States,Washington Bullets,Mississippi State,No,College Senior,1983
+1,11,Derek Harper,PG/SG,United States,Dallas Mavericks,Illinois,Yes,College Junior,1983
+1,12,Darrell Walker,SG,United States,New York Knicks,Arkansas,No,College Senior,1983
+1,13,Ennis Whatley,PG,United States,Kansas City Kings,Alabama,No,College Sophmore,1983
+1,14,Clyde Drexler^,SG,United States,Portland Trail Blazers,Houston,No,College Junior,1983
+1,15,Howard Carter,SG,United States,Denver Nuggets,LSU,No,College Senior,1983
+1,16,Jon Sundvold,PG,United States,Seattle SuperSonics,Missouri,No,College Senior,1983
+1,17,Leo Rautins,SF,Canada,Philadelphia 76ers,Syracuse,Yes,College Senior,1983
+1,18,Randy Breuer,C,United States,Milwaukee Bucks,Minnesota,No,College Senior,1983
+1,19,John Paxson,PG,United States,San Antonio Spurs,Notre Dame,No,College Senior,1983
+1,20,Roy Hinson,C,United States,Cleveland Cavaliers,Rutgers,Yes,College Senior,1983
+1,21,Greg Kite,C,United States,Boston Celtics,BYU,No,College Senior,1983
+1,22,Randy Wittman,SG,United States,Washington Bullets,Indiana,Yes,College Senior,1983
+1,23,Mitchell Wiggins,SG,United States,Indiana Pacers,Florida State,Yes,College Senior,1983
+1,24,Stewart Granger,PG,Canada,Cleveland Cavaliers *,Villanova,No,College Senior,1983
+2,25,Sidney Lowe,PG,United States,Chicago Bulls,NC State,No,College Senior,1983
+2,26,Leroy Combs,SF,United States,Indiana Pacers,Oklahoma State,No,College Senior,1983
+2,27,John Garris,PF,United States,Cleveland Cavaliers,Boston College,No,College Senior,1983
+2,28,Rod Foster,PG,United States,Phoenix Suns,UCLA,No,College Senior,1983
+2,29,Larry Micheaux,PF,United States,Chicago Bulls,Houston,No,College Senior,1983
+2,30,Mark West,C,United States,Dallas Mavericks,Old Dominion,No,College Senior,1983
+2,31,Doc Rivers,PG,United States,Atlanta Hawks,Marquette,No,College Junior,1983
+2,32,Michael Britt,SF,United States,Washington Bullets,UDC,No,College Senior,1983
+2,33,Dirk Minniefield,PG,United States,Dallas Mavericks,Kentucky,No,College Senior,1983
+2,34,Guy Williams,F,United States,Washington Bullets,Washington State,No,College Senior,1983
+2,35,Darrell Lockhart,C,United States,San Antonio Spurs,Auburn,No,College Senior,1983
+2,36,Scooter McCray,PF,United States,Seattle SuperSonics,Louisville,No,College Senior,1983
+2,37,David Russell,SF,United States,Denver Nuggets,St. John's,No,College Senior,1983
+2,38,Chris McNealy,PF,United States,Kansas City Kings,San Jose State,No,College Senior,1983
+2,39,Granville Waiters,C,United States,Portland Trail Blazers,Ohio State,No,College Senior,1983
+2,40,Jim Thomas,SG,United States,Indiana Pacers,Indiana,No,College Senior,1983
+2,41,Ted Kitchel,SF,United States,Milwaukee Bucks,Indiana,No,College Senior,1983
+2,42,Mike Davis,SG,United States,Milwaukee Bucks,Alabama,No,College Senior,1983
+2,43,Pace Mannion,SF,United States,Golden State Warriors,Utah,No,College Senior,1983
+2,44,Horace Owens,SG,United States,New Jersey Nets,Rhode Island,No,College Senior,1983
+2,45,Paul Williams,SF,United States,Phoenix Suns,Arizona State,No,College Senior,1983
+2,46,Kevin Williams,PG,United States,San Antonio Spurs,St. John's,No,College Senior,1983
+2,47,Kenneth Lyons,PF,United States,Philadelphia 76ers,North Texas State,No,College Senior,1983
+3,56,Larry Anderson,SG,United States,Cleveland Cavaliers,UNLV,No,College Senior,1983
+3,48,Craig Ehlo,SG,United States,Houston Rockets,Washington State,No,College Senior,1983
+3,50,Paul Thompson,SF,United States,Cleveland Cavaliers,Tulane,No,College Senior,1983
+3,53,Mike Holton,SG,United States,Golden State Warriors,UCLA,No,College Senior,1983
+3,54,Bob Hansen,SG,United States,Utah Jazz,Iowa,No,College Senior,1983
+3,57,Darren Daye,SF,United States,Washington Bullets,UCLA,No,College Senior,1983
+3,58,John Pinone,SF,United States,Atlanta Hawks,Villanova,No,College Senior,1983
+3,59,Bruce Kuczenski,PF,United States,New Jersey Nets,Connecticut,No,College Senior,1983
+3,62,Tom Piotrowski,C,United States,Portland Trail Blazers,La Salle,No,College Senior,1983
+4,75,Ron Crevier,C,Canada,Chicago Bulls,Boston College,No,College Senior,1983
+4,77,Peter Thibeaux,SF,United States,Golden State Warriors,Saint Mary's,No,College Senior,1983
+4,82,Mark Jones,PG,United States,New York Knicks,St. Bonaventure,No,College Senior,1983
+4,90,Brant Weidner,PF,United States,San Antonio Spurs,William & Mary,No,College Senior,1983
+4,91,Carlos Clark,SG,United States,Boston Celtics,Ole Miss,No,College Senior,1983
+5,97,Manute Bol,C,Sudan,San Diego Clippers,None,No,Playing Internationally,1983
+5,101,Ken Austin,PF,United States,Detroit Pistons,Rice,No,College Senior,1983
+5,102,Jim Lampley,C,United States,Dallas Mavericks,Arkansas–Little Rock,No,College Senior,1983
+6,139,Sedale Threatt,SG,United States,Philadelphia 76ers,West Virginia Tech,No,College Senior,1983
+7,152,Dane Suttle,SG,United States,Kansas City Kings,Pepperdine,No,College Senior,1983
+1,1,Akeem Olajuwon^,C,Nigeria,Houston Rockets,Houston,No,College Junior,1984
+1,2,Sam Bowie,C,United States,Portland Trail Blazers,Kentucky,Yes,College Senior,1984
+1,3,Michael Jordan^,G/F,United States,Chicago Bulls,North Carolina,No,College Junior,1984
+1,4,Sam Perkins,F/C,United States,Dallas Mavericks,North Carolina,Yes,College Senior,1984
+1,5,Charles Barkley^,F,United States,Philadelphia 76ers,Auburn,Yes,College Junior,1984
+1,6,Melvin Turpin,C,United States,Washington Bullets,Kentucky,Yes,College Senior,1984
+1,7,Alvin Robertson,G,United States,San Antonio Spurs,Arkansas,No,College Senior,1984
+1,8,Lancaster Gordon,G,United States,Los Angeles Clippers,Louisville,Yes,College Senior,1984
+1,9,Otis Thorpe,F/C,United States,Kansas City Kings,Providence,No,College Senior,1984
+1,10,Leon Wood,G,United States,Philadelphia 76ers,Cal State Fullerton,Yes,College Senior,1984
+1,11,Kevin Willis,F/C,United States,Atlanta Hawks,Michigan State,No,College Senior,1984
+1,12,Tim McCormick,C,United States,Cleveland Cavaliers,Michigan,Yes,College Senior,1984
+1,13,Jay Humphries,G,United States,Phoenix Suns,Colorado,No,College Senior,1984
+1,14,Michael Cage,F/C,United States,Los Angeles Clippers,San Diego State,Yes,College Senior,1984
+1,15,Terence Stansbury,G,United States,Dallas Mavericks,Temple,No,College Senior,1984
+1,16,John Stockton^,G,United States,Utah Jazz,Gonzaga,No,College Senior,1984
+1,17,Jeff Turner,F/C,United States,New Jersey Nets,Vanderbilt,No,College Senior,1984
+1,18,Vern Fleming,G,United States,Indiana Pacers,Georgia,Yes,College Senior,1984
+1,19,Bernard Thompson,G/F,United States,Portland Trail Blazers,Fresno State,No,College Freshman,1984
+1,20,Tony Campbell,G/F,United States,Detroit Pistons,Ohio State,No,College Senior,1984
+1,21,Kenny Fields,G/F,United States,Milwaukee Bucks,UCLA,No,College Senior,1984
+1,22,Tom Sewell,G,United States,Philadelphia 76ers,Lamar,Yes,College Senior,1984
+1,23,Earl Jones,C,United States,Los Angeles Lakers,UDC,No,College Senior,1984
+1,24,Michael Young,G/F,United States,Boston Celtics,Houston,No,College Senior,1984
+2,25,Devin Durrant,F,United States,Indiana Pacers,Brigham Young,No,College Senior,1984
+2,26,Victor Fleming,G,United States,Portland Trail Blazers,Xavier,Yes,College Senior,1984
+2,27,Ron Anderson,G/F,United States,Cleveland Cavaliers,Fresno State,No,College Freshman,1984
+2,28,Cory Blackwell,F,United States,Seattle SuperSonics,Wisconsin,Yes,College Junior,1984
+2,29,Stuart Gray,F/C,Panama,Indiana Pacers,UCLA,Yes,College Junior,1984
+2,30,Steve Burtt,G,United States,Golden State Warriors,Iona,Yes,College Senior,1984
+2,31,Jay Murphy,F,United States,Golden State Warriors,Boston College,Yes,College Senior,1984
+2,32,Eric Turner,G,United States,Detroit Pistons,Michigan,Yes,College Junior,1984
+2,33,Steve Colter,G,United States,Portland Trail Blazers,New Mexico State,Yes,College Senior,1984
+2,34,Tony Costner,C,United States,Washington Bullets,Saint Joseph's,Yes,College Senior,1984
+2,35,Othell Wilson,G,United States,Golden State Warriors,Virginia,Yes,College Senior,1984
+2,36,Charles Jones,F,United States,Phoenix Suns,Louisville,No,College Senior,1984
+2,37,Ben Coleman,F,United States,Chicago Bulls,Maryland,Yes,College Senior,1984
+2,38,Charlie Sitton,F,United States,Dallas Mavericks,Oregon State,No,College Senior,1984
+2,39,Danny Young,G,United States,Seattle SuperSonics,Wake Forest,Yes,College Senior,1984
+2,40,Anthony Teachey,F,United States,Dallas Mavericks,Wake Forest,Yes,College Senior,1984
+2,41,Tom Sluby,G,United States,Dallas Mavericks,Notre Dame,Yes,College Senior,1984
+2,42,Willie White,G,United States,Denver Nuggets,Chattanooga,Yes,College Senior,1984
+2,43,Greg Wiltjer,C,Canada,Chicago Bulls,Victoria,Yes,College Senior,1984
+2,44,Fred Reynolds,F,United States,Washington Bullets,UTEP,Yes,College Senior,1984
+2,45,Gary Plummer,F/C,United States,Golden State Warriors,Boston University,Yes,College Senior,1984
+2,46,Jerome Kersey,F,United States,Portland Trail Blazers,Longwood,Yes,College Senior,1984
+2,47,Ronnie Williams,F,United States,Boston Celtics,Florida,No,College Senior,1984
+3,50,Ben McDonald,F,United States,Cleveland Cavaliers,UC Irvine,No,College Senior,1984
+3,51,Jim Petersen,F/C,United States,Houston Rockets,Minnesota,No,College Senior,1984
+3,57,Joe Binion,F,United States,San Antonio Spurs,North Carolina A&T,Yes,College Senior,1984
+3,61,Jeff Cross,F,United States,Dallas Mavericks,Maine,No,College Senior,1984
+3,62,David Pope,F,United States,Utah Jazz,Norfolk State,No,College Senior,1984
+3,68,Butch Graves,G,United States,Philadelphia 76ers,Yale,No,College Senior,1984
+3,70,Rick Carlisle,G,United States,Boston Celtics,Virginia,No,College Senior,1984
+4,71,Ralph Jackson,G,United States,Indiana Pacers,UCLA,No,College Senior,1984
+4,76,Jim Grandholm,F,United States,Washington Bullets,South Florida,No,College Sophmore,1984
+4,80,Carl Henry,G,United States,Kansas City Kings,Kansas,No,College Senior,1984
+4,86,Jim Rowinski,F,United States,Utah Jazz,Purdue,No,College Senior,1984
+4,87,Bob Thornton,F/C,United States,New York Knicks,UC Irvine,No,College Senior,1984
+4,90,Ozell Jones,F/C,United States,San Antonio Spurs,Cal State Fullerton,Yes,College Senior,1984
+6,120,McKinley Singleton,G,United States,Milwaukee Bucks,UAB,Yes,College Senior,1984
+6,131,Oscar Schmidt^,G/F,Brazil,New Jersey Nets,S.E. Palmeiras,No,Playing Internationally,1984
+6,133,Eddie Lee Wilkins,F/C,United States,New York Knicks,Gardner–Webb,No,College Senior,1984
+7,140,Kenton Edelin,F,United States,Indiana Pacers,Virginia,No,College Senior,1984
+7,156,Ken Bannister,F/C,United States,New York Knicks,St. Augustine's,No,College Senior,1984
+9,185,Brian Martin,F,United States,Indiana Pacers,Kansas,No,College Senior,1984
+1,1,Patrick Ewing^,C,United States,New York Knicks,Georgetown,No,College Senior,1985
+1,2,Wayman Tisdale,PF,United States,Indiana Pacers,Oklahoma,No,College Junior,1985
+1,3,Benoit Benjamin,C,United States,Los Angeles Clippers,Creighton,No,College Junior,1985
+1,4,Xavier McDaniel,PF,United States,Seattle SuperSonics,Wichita State,No,College Senior,1985
+1,5,Jon Koncak,C,United States,Atlanta Hawks,SMU,No,College Senior,1985
+1,6,Joe Kleine,C,United States,Sacramento Kings,Arkansas,No,College Senior,1985
+1,7,Chris Mullin^,SF,United States,Golden State Warriors,St. John's,No,College Senior,1985
+1,8,Detlef Schrempf,SF/PF,West Germany,Dallas Mavericks,Washington,Yes,College Senior,1985
+1,9,Charles Oakley,PF,United States,Cleveland Cavaliers *,Virginia Union,No,College Senior,1985
+1,10,Ed Pinckney,PF,United States,Phoenix Suns,Villanova,No,College Senior,1985
+1,11,Keith Lee,C,United States,Chicago Bulls,Memphis State,No,College Senior,1985
+1,12,Kenny Green,F,United States,Washington Bullets,Wake Forest,No,College Junior,1985
+1,13,Karl Malone^,PF,United States,Utah Jazz,Louisiana Tech,No,College Junior,1985
+1,14,Alfredrick Hughes,SG,United States,San Antonio Spurs,Loyola,No,College Senior,1985
+1,15,Blair Rasmussen,C,United States,Denver Nuggets,Oregon,Yes,College Senior,1985
+1,16,Bill Wennington,C,Canada,Dallas Mavericks,St. John's,Yes,College Senior,1985
+1,17,Uwe Blab,C,West Germany,Dallas Mavericks,Indiana,No,College Senior,1985
+1,18,Joe Dumars^,SG,United States,Detroit Pistons,McNeese State,No,College Senior,1985
+1,19,Steve Harris,SG,United States,Houston Rockets,Tulsa,No,College Senior,1985
+1,20,Sam Vincent,SG,United States,Boston Celtics,Michigan State,Yes,College Senior,1985
+1,21,Terry Catledge,PF,United States,Philadelphia 76ers,South Alabama,No,College Sophmore,1985
+1,22,Jerry Reynolds,G/F,United States,Milwaukee Bucks,LSU,No,College Junior,1985
+1,23,A. C. Green,SF/PF,United States,Los Angeles Lakers,Oregon State,No,College Senior,1985
+1,24,Terry Porter,PG,United States,Portland Trail Blazers,Wisconsin–Stevens Point,Yes,College Senior,1985
+2,25,Mike Smrek,C,Canada,Portland Trail Blazers,Canisius,No,College Senior,1985
+2,26,Bill Martin,F,United States,Indiana Pacers,Georgetown,No,College Senior,1985
+2,27,Dwayne McClain,SG,United States,Indiana Pacers,Villanova,No,College Senior,1985
+2,28,Ken Johnson,F,United States,Chicago Bulls,Michigan State,No,College Senior,1985
+2,29,Mike Brittain,C,United States,San Antonio Spurs,South Carolina,No,College Sophmore,1985
+2,30,Calvin Duncan,G,United States,Cleveland Cavaliers,VCU,No,College Senior,1985
+2,31,Manute Bol,C,Sudan,Washington Bullets,Bridgeport,No,College Freshman,1985
+2,32,Nick Vanos,C,United States,Phoenix Suns,Santa Clara,No,College Senior,1985
+2,33,Greg Stokes,F/C,United States,Philadelphia 76ers,Iowa,No,College Senior,1985
+2,34,Aubrey Sherrod,SG,United States,Chicago Bulls,Wichita State,No,College Senior,1985
+2,35,Tyrone Corbin,SF/PF,United States,San Antonio Spurs,DePaul,No,College Senior,1985
+2,36,Yvon Joseph,C,Haiti,New Jersey Nets,Georgia Tech,No,College Senior,1985
+2,37,Carey Scurry,F,United States,Utah Jazz,LIU Brooklyn,No,College Senior,1985
+2,38,Fernando Martín,PF,Spain,New Jersey Nets,Real Madrid (Spain),No,Playing Internationally,1985
+2,39,George Montgomery,F,United States,Portland Trail Blazers,Illinois,No,College Senior,1985
+2,40,Mark Acres,F/C,United States,Dallas Mavericks,Oral Roberts,No,College Senior,1985
+2,41,Lorenzo Charles,PF,United States,Atlanta Hawks,NC State,No,College Senior,1985
+2,42,Bobby Lee Hurt,C/F,United States,Golden State Warriors,Alabama,No,College Senior,1985
+2,43,Barry Stevens,G/F,United States,Denver Nuggets,Iowa State,No,College Senior,1985
+2,44,Voise Winters,SG,United States,Philadelphia 76ers,Bradley,No,College Senior,1985
+2,45,"John ""Hot Rod"" Williams",PF,United States,Cleveland Cavaliers,Tulane,No,College Senior,1985
+2,46,Adrian Branch,SF,United States,Chicago Bulls,Maryland,Yes,College Senior,1985
+2,47,Gerald Wilkins,SG,United States,New York Knicks,Chattanooga,Yes,College Senior,1985
+3,49,Brad Wright,PF,United States,Golden State Warriors,UCLA,No,College Senior,1985
+3,54,Sam Mitchell,SF/PF,United States,Houston Rockets,Mercer,Yes,College Senior,1985
+3,59,Sedric Toney,PG,United States,Atlanta Hawks*,Dayton,No,College Senior,1985
+3,61,Perry Young,SG,United States,Portland Trail Blazers,Virginia Tech,No,College Senior,1985
+3,63,Harold Keeling,SG,United States,Dallas Mavericks,Santa Clara,No,College Senior,1985
+3,66,Michael Adams,PG,United States,Kansas City Kings,Boston College,Yes,College Senior,1985
+3,69,Mike Brown,C,United States,Chicago Bulls**,George Washington,No,College Senior,1985
+4,73,Fred Cofield,PG,United States,New York Knicks,Eastern Michigan,No,College Senior,1985
+4,75,Alex Stivrins,F,United States,Seattle SuperSonics,Colorado,No,College Senior,1985
+4,77,Arvydas Sabonis^,C,Soviet Union,Atlanta Hawks,Žalgiris Kaunas,No,College Sophmore,1985
+4,79,Mark Davis,SF,United States,Cleveland Cavaliers,Old Dominion,No,College Senior,1985
+4,82,Scott Roth,SF,United States,San Antonio Spurs,Wisconsin,No,College Senior,1985
+4,83,Delaney Rudd,G,United States,Utah Jazz,Wake Forest,No,College Senior,1985
+4,84,John Battle,SG,United States,Atlanta Hawks,Rutgers,Yes,College Senior,1985
+4,87,Spud Webb,PG,United States,Detroit Pistons,NC State,No,College Senior,1985
+4,89,Pete Williams,PF,United States,Denver Nuggets,Arizona,No,College Senior,1985
+4,90,Derrick Gervin,PF,United States,Philadelphia 76ers,UTSA,No,College Junior,1985
+4,91,Cozell McQueen,PF,United States,Milwaukee Bucks,NC State,No,College Senior,1985
+4,92,Dexter Shouse,PG,United States,Los Angeles Lakers,South Alabama,No,College Sophmore,1985
+6,139,Ralph Lewis,SG,United States,Boston Celtics,La Salle,No,College Senior,1985
+7,144,Mike Phelps,SG,United States,Seattle SuperSonics,Alcorn State,No,College Senior,1985
+7,148,Georgi Glouchkov,PF,Bulgaria,Phoenix Suns,Akademik Varna (Bulgaria),No,Playing Internationally,1985
+7,160,Mario Elie,SF/SG,United States,Milwaukee Bucks,American International,No,College Senior,1985
+1,1,Brad Daugherty,C,United States,Cleveland Cavaliers,North Carolina,Yes,College Senior,1986
+1,2,Len Bias,SF,United States,Boston Celtics,Maryland,Yes,College Senior,1986
+1,3,Chris Washburn,C,United States,Golden State Warriors,NC State,No,College Sophmore,1986
+1,4,Chuck Person,SF,United States,Indiana Pacers,Auburn,No,College Senior,1986
+1,5,Kenny Walker,SF,United States,New York Knicks,Kentucky,No,College Senior,1986
+1,6,William Bedford,C,United States,Phoenix Suns,Memphis State,No,College Junior,1986
+1,7,Roy Tarpley,C,United States,Dallas Mavericks,Michigan,Yes,College Senior,1986
+1,8,Ron Harper,SG,United States,Cleveland Cavaliers *,Miami,No,College Senior,1986
+1,9,Brad Sellers,C,United States,Chicago Bulls,Ohio State,No,College Senior,1986
+1,10,Johnny Dawkins,PG,United States,San Antonio Spurs,Duke,No,College Senior,1986
+1,11,John Salley,PF,United States,Detroit Pistons,Georgia Tech,Yes,College Senior,1986
+1,12,John Williams,PF,United States,Washington Bullets,LSU,No,College Sophmore,1986
+1,13,Dwayne Washington,PG,United States,New Jersey Nets,Syracuse,No,College Junior,1986
+1,14,Walter Berry,SF/PF,United States,Portland Trail Blazers,St. John's,No,College Senior,1986
+1,15,Dell Curry,SG/SF,United States,Utah Jazz,Virginia Tech,No,College Senior,1986
+1,16,Maurice Martin,SF,United States,Denver Nuggets,Saint Joseph's,Yes,College Senior,1986
+1,17,Harold Pressley,SF,United States,Sacramento Kings,Villanova,Yes,College Senior,1986
+1,18,Mark Alarie,PF,United States,Denver Nuggets,Duke,No,College Senior,1986
+1,19,Billy Thompson,SF,United States,Atlanta Hawks,Louisville,No,College Senior,1986
+1,20,Buck Johnson,SF,United States,Houston Rockets,Alabama,No,College Senior,1986
+1,21,Anthony Jones,SF,United States,Washington Bullets,UNLV,Yes,College Senior,1986
+1,22,Scott Skiles,PG,United States,Milwaukee Bucks,Michigan State,No,College Senior,1986
+1,23,Ken Barlow,PF,United States,Los Angeles Lakers,Notre Dame,No,College Senior,1986
+1,24,Arvydas Sabonis^,C,Soviet Union,Portland Trail Blazers,Zalgiris,Yes,College Sophmore,1986
+2,25,Mark Price,PG,United States,"Dallas Mavericks, traded on draft day to the Cleveland Cavaliers",Georgia Tech,Yes,College Senior,1986
+2,26,Greg Dreiling,C,United States,Indiana Pacers,Kansas,No,College Senior,1986
+2,27,Dennis Rodman^,PF,United States,Detroit Pistons,Southeastern Oklahoma State,No,College Sophmore,1986
+2,28,Larry Krystkowiak,PF,United States,Chicago Bulls,Montana,No,College Senior,1986
+2,29,Johnny Newman,SF,United States,Cleveland Cavaliers,Richmond,No,College Senior,1986
+2,30,Nate McMillan,PG,United States,Seattle SuperSonics,NC State,No,College Senior,1986
+2,31,Joe Ward,SF,United States,Phoenix Suns,Georgia,No,College Senior,1986
+2,32,Cedric Henderson,PF,United States,Atlanta Hawks,Georgia,No,College Senior,1986
+2,33,Kevin Duckworth,C,United States,San Antonio Spurs,Eastern Illinois,No,College Senior,1986
+2,34,Johnny Rogers,PF,Spain,Sacramento Kings,UC Irvine,No,College Senior,1986
+2,35,Milt Wagner,SG,United States,Dallas Mavericks,Louisville,No,College Senior,1986
+2,36,Steve Mitchell,PG,United States,Washington Bullets,UAB,No,College Senior,1986
+2,37,Panagiotis Fasoulas,C,Greece,Portland Trail Blazers,NC State,No,College Senior,1986
+2,38,Lemone Lampley,C,United States,Seattle SuperSonics,DePaul,No,College Senior,1986
+2,39,Rafael Addison,SF,United States,Phoenix Suns,Syracuse,No,College Senior,1986
+2,40,Augusto Binelli,C,Italy,Atlanta Hawks,Virtus Bologna (Italy),No,Playing Internationally,1986
+2,41,Otis Smith,SG,United States,Denver Nuggets,Jacksonville,No,College Senior,1986
+2,42,Ron Kellogg,SF,United States,Atlanta Hawks,Kansas,No,College Senior,1986
+2,43,Dave Feitl,C,United States,Houston Rockets,UTEP,No,College Senior,1986
+2,44,David Wingate,SG,United States,Philadelphia 76ers,Georgetown,No,College Senior,1986
+2,45,Keith Smith,PG,United States,Milwaukee Bucks,Loyola Marymount,No,College Senior,1986
+2,46,Jeff Hornacek,SG,United States,Phoenix Suns,Iowa State,No,College Senior,1986
+2,47,Michael Jackson,PG,United States,New York Knicks,Georgetown,No,College Senior,1986
+3,48,Forrest McKenzie,SF,United States,San Antonio Spurs,Loyola Marymount,No,College Senior,1986
+3,50,Kevin Henderson,PG,United States,Cleveland Cavaliers,Cal State Fullerton,No,College Senior,1986
+3,51,Mike Williams,PF/SF,United States,Golden State Warriors,Bradley,No,College Senior,1986
+3,52,Ricky Wilson,PG,United States,Chicago Bulls,George Mason,No,College Senior,1986
+3,53,Tod Murphy,PF,United States,Seattle SuperSonics,UC Irvine,No,College Senior,1986
+3,54,Dwayne Polee,SG,United States,Los Angeles Clippers,Pepperdine,No,College Senior,1986
+3,55,Kenny Gattison,PF,United States,Phoenix Suns,Old Dominion,No,College Senior,1986
+3,57,Bruce Douglas,SG,United States,Sacramento Kings,Illinois,No,College Senior,1986
+3,58,David Henderson,PG,United States,Washington Bullets,Duke,No,College Senior,1986
+3,59,Wendell Alexis,PF,United States,Golden State Warriors,Syracuse,No,College Senior,1986
+3,60,Dražen Petrović^,SG,Yugoslavia,Portland Trail Blazers,Cibona (Yugoslavia),No,Playing Internationally,1986
+3,61,John Shasky,C,United States,Utah Jazz,Minnesota,No,College Senior,1986
+3,65,Dave Hoppen,C,United States,Atlanta Hawks,Nebraska,No,College Senior,1986
+3,66,Anthony Bowie,SG,United States,Houston Rockets,Oklahoma,No,College Senior,1986
+3,67,Ron Rowan,SG,United States,Philadelphia 76ers,St. John's,No,College Senior,1986
+3,69,Andre Turner,PG,United States,Los Angeles Lakers,Memphis State,No,College Senior,1986
+3,70,Jim Les,PG,United States,Atlanta Hawks,Bradley,No,College Senior,1986
+4,74,Scott Meents,PF,United States,Chicago Bulls,Illinois,No,College Senior,1986
+4,77,Grant Gondrezick,SG,United States,Phoenix Suns,Pepperdine,No,College Senior,1986
+4,85,Myron Jackson,PG,United States,Dallas Mavericks,Arkansas–Little Rock,No,College Senior,1986
+4,89,Conner Henry,SG,United States,Houston Rockets,UC Santa Barbara,No,College Senior,1986
+5,95,Richard Rellford,SF,United States,Indiana Pacers,Michigan,No,College Senior,1986
+5,97,Clinton Smith,SG,United States,Golden State Warriors,Cleveland State,No,College Senior,1986
+5,99,Dominic Pressley,PG,United States,Seattle SuperSonics,Boston College,No,College Senior,1986
+5,100,Steffond Johnson,PF,United States,Los Angeles Clippers,San Diego State,No,College Senior,1986
+6,120,Pete Myers,G/SF,United States,Chicago Bulls,Arkansas–Little Rock,No,College Senior,1986
+6,122,Curtis Kitchen,PF,United States,Seattle SuperSonics,South Florida,No,College Sophmore,1986
+6,124,Tim Kempton,PF,United States,Los Angeles Clippers,Notre Dame,No,College Senior,1986
+6,133,Anthony Frederick,SF,United States,Denver Nuggets,Pepperdine,No,College Senior,1986
+6,134,Alexander Volkov,C,Soviet Union,Atlanta Hawks,Budivelnik Kiev (USSR),No,Playing Internationally,1986
+1,1,David Robinson^,C,United States,San Antonio Spurs,Navy,No,College Senior,1987
+1,2,Armen Gilliam,PF,United States,Phoenix Suns,UNLV,No,College Senior,1987
+1,3,Dennis Hopson,SF,United States,New Jersey Nets,Ohio State,No,College Senior,1987
+1,4,Reggie Williams,SF,United States,Los Angeles Clippers,Georgetown,No,College Senior,1987
+1,5,Scottie Pippen^,SF,United States,Seattle SuperSonics,Central Arkansas,Yes,College Senior,1987
+1,6,Kenny Smith,PG,United States,Sacramento Kings,North Carolina,No,College Senior,1987
+1,7,Kevin Johnson,PG,United States,Cleveland Cavaliers,California,No,College Senior,1987
+1,8,Olden Polynice,C,Haiti,Chicago Bulls,Hamby Rimini (Italy),Yes,Playing Internationally,1987
+1,9,Derrick McKey,SF/PF,United States,Seattle SuperSonics,Alabama,No,College Junior,1987
+1,10,Horace Grant,PF/C,United States,Chicago Bulls,Clemson,No,College Senior,1987
+1,11,Reggie Miller^,SG,United States,Indiana Pacers,UCLA,No,College Senior,1987
+1,12,Muggsy Bogues,PG,United States,Washington Bullets,Wake Forest,No,College Senior,1987
+1,13,Joe Wolf,C,United States,Los Angeles Clippers,North Carolina,Yes,College Senior,1987
+1,14,Tellis Frank,PF,United States,Golden State Warriors,WKU,No,College Senior,1987
+1,15,José Ortiz,PF,Puerto Rico,Utah Jazz,Oregon State,No,College Senior,1987
+1,16,Christian Welp,C,West Germany,Philadelphia 76ers,Washington,No,College Senior,1987
+1,17,Ronnie Murphy,SG,United States,Portland Trail Blazers,Jacksonville,No,College Senior,1987
+1,18,Mark Jackson,PG,United States,New York Knicks,St. John's,Yes,College Senior,1987
+1,19,Ken Norman,SF,United States,Los Angeles Clippers,Illinois,Yes,College Senior,1987
+1,20,Jim Farmer,SG,United States,Dallas Mavericks,Alabama,No,College Senior,1987
+1,21,Dallas Comegys,C,United States,Atlanta Hawks,DePaul,No,College Senior,1987
+1,22,Reggie Lewis,SG,United States,Boston Celtics,Northeastern,No,College Senior,1987
+1,23,"Greg ""Cadillac"" Anderson",PF,United States,San Antonio Spurs,Houston,Yes,College Senior,1987
+2,24,Freddie Banks,SG,United States,Detroit Pistons,UNLV,No,College Senior,1987
+2,25,Ron Moore,C,United States,New York Knicks,West Virginia State,No,College Senior,1987
+2,26,Steve Alford,SG,United States,Dallas Mavericks,Indiana,No,College Senior,1987
+2,27,Nate Blackwell,PG,United States,San Antonio Spurs,Temple,No,College Senior,1987
+2,28,Rickie Winslow,SF,United States,Chicago Bulls,Houston,No,College Senior,1987
+2,29,Lester Fonville,C,United States,Portland Trail Blazers,Jackson State,No,College Senior,1987
+2,30,Nikita Wilson,SF,United States,Portland Trail Blazers,LSU,No,College Senior,1987
+2,31,Andre Moore,PF,United States,Denver Nuggets,Loyola,No,College Junior,1987
+2,32,Bob McCann,SF,United States,Milwaukee Bucks,Morehead State,No,College Senior,1987
+2,33,Tony White,PG,United States,Chicago Bulls,Tennessee,No,College Senior,1987
+2,34,Brian Rowsom,PF,United States,Indiana Pacers,UNC Wilmington,No,College Senior,1987
+2,35,Doug Lee,SG,United States,Houston Rockets,Purdue,No,College Senior,1987
+2,36,Duane Washington,SG,United States,Washington Bullets,Middle Tennessee,No,College Senior,1987
+2,37,Derrick Dowell,SF,United States,Washington Bullets,USC,No,College Senior,1987
+2,38,Norris Coleman,SF,United States,Los Angeles Clippers,Kansas State,No,College Sophmore,1987
+2,39,Vincent Askew,SG/SF,United States,Philadelphia 76ers,Memphis State,No,College Junior,1987
+2,40,Winston Garland,PG,United States,Milwaukee Bucks,Southwest Missouri State,No,College Sophmore,1987
+2,41,Kannard Johnson,SF,United States,Cleveland Cavaliers,WKU,No,College Senior,1987
+2,42,Terrance Bailey,SG,United States,Atlanta Hawks,Wagner,No,College Senior,1987
+2,43,Andrew Kennedy,F,Jamaica,Philadelphia 76ers,Virginia,No,College Senior,1987
+2,44,Terry Coner,PG,United States,Atlanta Hawks,Alabama,No,College Senior,1987
+2,45,Brad Lohaus,PF/C,United States,Boston Celtics,Iowa,No,College Senior,1987
+2,46,Bruce Dalrymple,G,United States,Phoenix Suns,Georgia Tech,No,College Senior,1987
+3,48,Jamie Waller,SG,United States,New Jersey Nets,Virginia Union,No,College Senior,1987
+3,50,Phil Zevenbergen,C,United States,San Antonio Spurs,Washington,No,College Senior,1987
+3,53,Winston Crite,SF,United States,Phoenix Suns,Texas A&M,No,College Senior,1987
+3,58,Darryl Johnson,PG,United States,Golden State Warriors,Michigan State,No,College Senior,1987
+3,63,Kevin Gamble,SG,United States,Portland Trail Blazers,Iowa,No,College Senior,1987
+3,65,Eric White,PF,United States,Detroit Pistons,Pepperdine,No,College Senior,1987
+3,68,Billy Donovan,PG,United States,Utah Jazz,Providence,No,College Senior,1987
+4,74,Joe Arlauckas,SF,United States,Sacramento Kings,Niagara,No,College Senior,1987
+4,75,Chris Dudley,C,United States,Cleveland Cavaliers,Yale,No,College Senior,1987
+4,79,Jack Haley,C,United States,Chicago Bulls,UCLA,No,College Senior,1987
+4,88,Dave Popson,PF,United States,Detroit Pistons,North Carolina,No,College Senior,1987
+5,100,Ronnie Grandison,SF,United States,Denver Nuggets,New Orleans,No,College Senior,1987
+5,107,Bart Kofoed,SG,United States,Utah Jazz,Nebraska–Kearney,No,College Senior,1987
+6,116,Martin Nessley,C,United States,Los Angeles Clippers,Duke,No,College Senior,1987
+6,127,Šarūnas Marčiulionis,SG,Soviet Union,Golden State Warriors,Statyba Vilnius,No,College Sophmore,1987
+1,1,Danny Manning,PF,United States,Los Angeles Clippers,Kansas,No,College Senior,1988
+1,2,Rik Smits,C,Netherlands,Indiana Pacers,Marist,No,College Senior,1988
+1,3,Charles Smith,PF,United States,Philadelphia 76ers,Pittsburgh,Yes,College Senior,1988
+1,4,Chris Morris,SF,United States,New Jersey Nets,Auburn,No,College Senior,1988
+1,5,Mitch Richmond^,SG,United States,Golden State Warriors,Kansas State,No,College Senior,1988
+1,6,Hersey Hawkins,SG,United States,Los Angeles Clippers,Bradley,Yes,College Senior,1988
+1,7,Tim Perry,F,United States,Phoenix Suns,Temple,No,College Senior,1988
+1,8,Rex Chapman,SG,United States,Charlotte Hornets,Kentucky,No,College Sophmore,1988
+1,9,Rony Seikaly,C,Lebanon,Miami Heat,Syracuse,No,College Senior,1988
+1,10,Willie Anderson,SG,United States,San Antonio Spurs,Georgia,No,College Senior,1988
+1,11,Will Perdue,C,United States,Chicago Bulls,Vanderbilt,Yes,College Senior,1988
+1,12,Harvey Grant,SF,United States,Washington Bullets,Oklahoma,No,College Senior,1988
+1,13,Jeff Grayer,SG/SF,United States,Milwaukee Bucks,Iowa State,No,College Senior,1988
+1,14,Dan Majerle,SF,United States,Phoenix Suns,Central Michigan,Yes,College Senior,1988
+1,15,Gary Grant,PG,United States,Seattle SuperSonics,Michigan,No,College Senior,1988
+1,16,Derrick Chievous,SG,United States,Houston Rockets,Missouri,No,College Senior,1988
+1,17,Eric Leckner,C,United States,Utah Jazz,Wyoming,No,College Senior,1988
+1,18,Ricky Berry,SG,United States,Sacramento Kings,San Jose State,Yes,College Senior,1988
+1,19,Rod Stricklandx,PG,United States,New York Knicks,DePaul,Yes,College Junior,1988
+1,20,Kevin Edwards,SG,United States,Miami Heat,DePaul,Yes,College Senior,1988
+1,21,Mark Bryant,PF,United States,Portland Trail Blazers,Seton Hall,No,College Senior,1988
+1,22,Randolph Keys,SF,United States,Cleveland Cavaliers,Southern Miss,Yes,College Sophmore,1988
+1,23,Jerome Lane,PF,United States,Denver Nuggets,Pittsburgh,No,College Junior,1988
+1,24,Brian Shaw,SG,United States,Boston Celtics,UC Santa Barbara,No,College Senior,1988
+1,25,David Rivers,PG,United States,Los Angeles Lakers,Notre Dame,No,College Senior,1988
+2,26,Rolando Ferreira,C,Brazil,Portland Trail Blazers,Houston,No,College Senior,1988
+2,27,Shelton Jones,F,United States,San Antonio Spurs,St. John's,No,College Senior,1988
+2,28,Andrew Lang,C,United States,Phoenix Suns,Arkansas,No,College Senior,1988
+2,29,Vinny Del Negro,SG,United States,Sacramento Kings,NC State,No,College Senior,1988
+2,30,Fennis Dembo,PF,United States,Detroit Pistons,Wyoming,No,College Senior,1988
+2,31,Everette Stephens,G,United States,Philadelphia 76ers,Purdue,No,College Senior,1988
+2,32,Charles Shackleford,F/C,United States,New Jersey Nets,NC State,No,College Senior,1988
+2,33,Grant Long,F,United States,Miami Heat,Eastern Michigan,No,College Senior,1988
+2,34,Tom Tolbert,F/C,United States,Charlotte Hornets,Arizona,No,College Senior,1988
+2,35,Sylvester Gray,F,United States,Miami Heat,Memphis State,Yes,College Sophmore,1988
+2,36,Ledell Eackles,G/F,United States,Washington Bullets,New Orleans,No,College Senior,1988
+2,37,Greg Butler,C,United States,New York Knicks,Stanford,No,College Senior,1988
+2,38,Dean Garrett,C,United States,Phoenix Suns,Indiana,Yes,College Senior,1988
+2,39,Tito Horford,C,Dominican Republic,Milwaukee Bucks,Miami,No,College Sophmore,1988
+2,40,Orlando Graham,F,United States,Miami Heat,Auburn-Montgomery,Yes,College Senior,1988
+2,41,Keith Smart,G,United States,Golden State Warriors,Indiana,No,College Senior,1988
+2,42,Jeff Moe,SG,United States,Utah Jazz,Iowa,No,College Senior,1988
+2,43,Todd Mitchell,F,United States,Denver Nuggets,Purdue,No,College Senior,1988
+2,44,Anthony Taylor,G,United States,Atlanta Hawks,Oregon,No,College Senior,1988
+2,45,Tom Garrick,G,United States,Los Angeles Clippers,Rhode Island,No,College Senior,1988
+2,46,Morlon Wiley,G,United States,Dallas Mavericks,Long Beach State,No,College Senior,1988
+2,47,Vernon Maxwell,SG,United States,Denver Nuggets,Florida,No,College Senior,1988
+2,48,Micheal Williams,G,United States,Detroit Pistons,Baylor,No,College Senior,1988
+2,49,José Vargas,C/PF,Dominican Republic,Dallas Mavericks,LSU,No,College Senior,1988
+2,50,Steve Kerr,PG,United States,Phoenix Suns,Arizona,No,College Senior,1988
+3,51,Rob Lock,F,United States,Los Angeles Clippers,Kentucky,No,College Senior,1988
+3,52,Derrick Hamilton,SF,United States,New Jersey Nets,Southern Miss,No,College Sophmore,1988
+3,53,Anthony Mason,SF/PF,United States,Portland Trail Blazers,Tennessee State,Yes,College Senior,1988
+3,54,Jorge González,C,Argentina,Atlanta Hawks,Sport Club de Cañada de Gómez (Argentina) 1966,Yes,Playing Internationally,1988
+3,55,Rodney Johns,PG,United States,Phoenix Suns,Grand Canyon,No,College Senior,1988
+3,56,Barry Sumpter,F/C,United States,San Antonio Spurs,Austin Peay,No,College Senior,1988
+3,57,Hernán Montenegro,PF/C,Argentina,Philadelphia 76ers,LSU,No,College Senior,1988
+3,58,Jeff Moore,PF,United States,Charlotte Hornets,Auburn,No,College Senior,1988
+3,59,Nate Johnston,F,United States,Miami Heat,Tampa,No,College Senior,1988
+3,60,Ed Davender,PG,United States,Washington Bullets,Kentucky,No,College Senior,1988
+3,61,Herbert Crook ,SF/SG,United States,Indiana Pacers,Louisville,No,College Senior,1988
+3,62,Derrick Lewis,PF,United States,Chicago Bulls,Maryland,Yes,College Senior,1988
+3,63,Mike Jones,PF,United States,Milwaukee Bucks,Auburn,No,College Senior,1988
+3,64,Winston Bennett,F,United States,Cleveland Cavaliers,Kentucky,No,College Senior,1988
+3,65,Corey Gaines,G,United States,Seattle SuperSonics,Loyola Marymount,No,College Senior,1988
+3,66,Dwight Boyd,SG,United States,Denver Nuggets,Memphis State,Yes,College Senior,1988
+3,67,Ricky Grace,G,Australia,Utah Jazz,Oklahoma,No,College Senior,1988
+3,68,Darryl Middleton,PF,United States,Atlanta Hawks,Baylor,No,College Senior,1988
+3,69,Phil Stinnie,PF,United States,New York Knicks,VCU,Yes,College Senior,1988
+3,70,Jerry Johnson,PG,United States,Dallas Mavericks,Florida Southern,No,College Sophmore,1988
+3,71,Craig Neal,G,United States,Portland Trail Blazers,Georgia Tech,No,College Senior,1988
+3,72,Lee Johnson,PF,United States,Detroit Pistons,Norfolk State,No,College Senior,1988
+3,73,Michael Anderson,G,United States,Indiana Pacers,Drexel,Yes,College Senior,1988
+3,74,Gerald Paddio,F/G,United States,Boston Celtics,UNLV,No,College Senior,1988
+3,75,Archie Marshall,SF,United States,San Antonio Spurs,Kansas,Yes,College Senior,1988
 1,1,Pervis Ellison,PF,United States,Sacramento Kings,Louisville,No,College Senior,1989
 1,2,Danny Ferry,PF,United States,Los Angeles Clippers,Duke,No,College Senior,1989
 1,3,Sean Elliott,SF/SG,United States,San Antonio Spurs,Arizona,No,College Senior,1989

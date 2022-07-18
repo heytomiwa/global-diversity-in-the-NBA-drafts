@@ -1,0 +1,71 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Mark Aguirre,G/F,United States,Dallas Mavericks,DePaul,No,College Junior
+1,2,Isiah Thomas^,G,United States,Detroit Pistons,Indiana,No,College Sophmore
+1,3,Buck Williams,F/C,United States,New Jersey Nets,Maryland,No,College Junior
+1,4,Al Wood,G/F,United States,Atlanta Hawks,North Carolina,Yes,College Senior
+1,5,Danny Vranes,F,United States,Seattle SuperSonics,Utah,Yes,College Senior
+1,6,Orlando Woolridge,F,United States,Chicago Bulls,Notre Dame,Yes,College Senior
+1,7,Steve Johnson,F/C,United States,Kansas City Kings,Oregon State,Yes,College Senior
+1,8,Tom Chambers,F/C,United States,San Diego Clippers,Utah,No,College Senior
+1,9,Rolando Blackman,G,Panama,Dallas Mavericks,Kansas State,Yes,College Senior
+1,10,Albert King,G/F,United States,New Jersey Nets,Maryland,Yes,College Senior
+1,11,Frank Johnson,G,United States,Washington Bullets,Wake Forest,No,College Senior
+1,12,Kelly Tripucka,G/F,United States,Detroit Pistons,Notre Dame,Yes,College Senior
+1,13,Danny Schayes,F/C,United States,Utah Jazz,Syracuse,Yes,College Senior
+1,14,Herb Williams,F/C,United States,Indiana Pacers,Ohio State,No,College Senior
+1,15,Jeff Lamp,G/F,United States,Portland Trail Blazers,Virginia,No,College Senior
+1,16,Darnell Valentine,G,United States,Portland Trail Blazers,Kansas,Yes,College Senior
+1,17,Kevin Loder,G/F,United States,Kansas City Kings,Alabama State,Yes,College Senior
+1,18,Ray Tolbert,F,United States,New Jersey Nets,Indiana,Yes,College Senior
+1,19,Mike McGee,G/F,United States,Los Angeles Lakers,Michigan,No,College Senior
+1,20,Larry Nance,F/C,United States,Phoenix Suns,Clemson,No,College Senior
+1,21,Alton Lister,F/C,United States,Milwaukee Bucks,Arizona State,No,College Senior
+1,22,Franklin Edwards,G,United States,Philadelphia 76ers,Cleveland State,No,College Senior
+1,23,Charles Bradley,G,United States,Boston Celtics,Wyoming,No,College Senior
+2,24,Jay Vincent,F,United States,Dallas Mavericks,Michigan State,No,College Senior
+2,25,Tracy Jackson,G/F,United States,Boston Celtics,Notre Dame,Yes,College Senior
+2,26,Brian Jackson,F,United States,Portland Trail Blazers,Utah State,Yes,College Senior
+2,27,Howard Wood,F,United States,Utah Jazz,Tennessee,No,College Senior
+2,28,Gene Banks,G/F,United States,San Antonio Spurs,Duke,Yes,College Senior
+2,29,Eddie Johnson,G/F,United States,Kansas City Kings,Illinois,Yes,College Senior
+2,30,Ed Rains,F,United States,San Antonio Spurs,South Alabama,Yes,College Sophmore
+2,31,Danny Ainge,G/F,United States,Boston Celtics,Brigham Young,Yes,College Senior
+2,32,Mike Olliver,G,United States,Chicago Bulls,Lamar,Yes,College Senior
+2,33,Sam Williams,F,United States,Golden State Warriors,Arizona State,Yes,College Senior
+2,34,Ken Green,F,United States,Denver Nuggets,Pan American,Yes,College Senior
+2,35,Charles Davis,F,United States,Washington Bullets,Vanderbilt,Yes,College Senior
+2,36,Ray Blume,G,United States,Indiana Pacers,Oregon State,Yes,College Senior
+2,37,Al Leslie,G,United States,Indiana Pacers,Bucknell,No,College Senior
+2,38,Clyde Bradshaw,G,United States,Atlanta Hawks,DePaul,Yes,College Senior
+2,39,Harvey Knuckles,F,United States,Los Angeles Lakers,Toledo,Yes,College Senior
+2,40,Greg Cook,F,United States,New York Knicks,LSU,No,College Senior
+2,41,Claude Gregory,F,United States,Washington Bullets,Wisconsin,Yes,College Senior
+2,42,Elvis Rolle,F/C,Bahamas,Los Angeles Lakers,Florida State,No,College Senior
+2,43,Elston Turner,G/F,United States,Dallas Mavericks,Mississippi,Yes,College Senior
+2,44,Steve Lingenfelter,F,United States,Washington Bullets,South Dakota State,Yes,College Sophmore
+2,45,Ed Turner,F,United States,Houston Rockets,Texas A&I,Yes,College Senior
+2,46,Vernon Smith,F,United States,Philadelphia 76ers,Texas A&M,No,College Senior
+3,49,David Burns,G,United States,New Jersey Nets,Saint Louis,No,College Senior
+3,52,Rudy Macklin,G/F,United States,Atlanta Hawks,LSU,No,College Senior
+3,53,Mark Radford,G,United States,Seattle SuperSonics,Oregon State,No,College Senior
+3,54,Jim Smith,F,United States,San Diego Clippers,Ohio State,No,College Senior
+3,55,Mickey Dillard,G,United States,Cleveland Cavaliers,Florida State,Yes,College Senior
+3,57,Frank Brickowski,F/C,United States,New York Knicks,Penn State,Yes,College Senior
+3,61,Pétur Guðmundsson,C,Iceland,Portland Trail Blazers,Washington,No,College Senior
+3,66,Craig Dykema,F,United States,Phoenix Suns,Long Beach State,No,College Senior
+4,72,Edmund Sherod,G,United States,New Jersey Nets,VCU,No,College Senior
+4,76,Lewis Lloyd,G/F,United States,Golden State Warriors,Drake,Yes,College Senior
+4,78,Kenny Dennard,F,United States,Kansas City Kings,Duke,Yes,College Senior
+4,81,Larry Spriggs,F,United States,Houston Rockets,Howard,No,College Senior
+4,85,Peter Verhoeven,F,United States,Portland Trail Blazers,Fresno State,No,College Freshman
+4,86,Alex Bradley,F,United States,New York Knicks,Villanova,No,College Senior
+4,88,Kevin McKenna,G/F,United States,Los Angeles Lakers,Creighton,No,College Senior
+5,95,Joe Cooper,F/C,United States,New Jersey Nets,Colorado,No,College Senior
+5,102,Hank McDowell,F/C,United States,Golden State Warriors,Memphis State,No,College Senior
+5,103,Garry Witts,G/F,United States,Washington Bullets,Holy Cross,No,College Senior
+6,130,Roger Burkman,G,United States,Chicago Bulls,Louisville,No,College Senior
+7,150,Clinton Wheeler,G,United States,Kansas City Kings,William Paterson,No,College Senior
+8,165,Bobby Cattage,F,United States,Utah Jazz,Auburn,No,College Senior
+10,210,Tony Gwynn,G,United States,San Diego Clippers,San Diego State,No,College Senior
+10,211,Derrick Rowland,G,United States,Denver Nuggets,Potsdam State,No,College Senior
+10,216,Kenny Easley,G,United States,Chicago Bulls,UCLA,No,College Senior

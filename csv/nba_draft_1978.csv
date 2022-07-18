@@ -1,0 +1,76 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Mychal Thompson,F/C,Bahamas,Portland Trail Blazers,Minnesota,Yes,College Senior
+1,2,Phil Fordx,G,United States,Kansas City Kings,North Carolina,Yes,College Senior
+1,3,Rick Robey,F/C,United States,Indiana Pacers,Kentucky,Yes,College Senior
+1,4,Micheal Ray Richardson,G/F,United States,New York Knicks,Montana,Yes,College Senior
+1,5,Purvis Short,G/F,United States,Golden State Warriors,Jackson State,Yes,College Senior
+1,6,Larry Bird^,F,United States,Boston Celtics,Indiana State,No,College Junior
+1,7,Ron Brewer,G,United States,Portland Trail Blazers,Arkansas,Yes,College Senior
+1,8,Freeman Williams,G/F,United States,Boston Celtics,Portland State,Yes,College Senior
+1,9,Reggie Theus,G,United States,Chicago Bulls,UNLV,No,College Junior
+1,10,Butch Lee,G,Puerto Rico,Atlanta Hawks,Marquette,No,College Senior
+1,11,James Hardy,F/C,United States,New Orleans Jazz,San Francisco,Yes,College Freshman
+1,12,George Johnson,F/C,United States,Milwaukee Bucks,St. John's,Yes,College Senior
+1,13,Winford Boynes,G/F,United States,New Jersey Nets,San Francisco,Yes,College Freshman
+1,14,Roger Phegley,G/F,United States,Washington Bullets,Bradley,No,College Senior
+1,15,Mike Mitchell,F,United States,Cleveland Cavaliers,Auburn,Yes,College Senior
+1,16,Jack Givens,G/F,United States,Atlanta Hawks,Kentucky,Yes,College Senior
+1,17,Rod Griffin,F,United States,Denver Nuggets,Wake Forest,Yes,College Senior
+1,18,Dave Corzine,C,United States,Washington Bullets,DePaul,Yes,College Senior
+1,19,Marty Byrnes,F,United States,Phoenix Suns,Syracuse,No,College Senior
+1,20,Frankie Sanders,G/F,United States,San Antonio Spurs,Southern,No,College Sophmore
+1,21,Mike Evans,G,United States,Denver Nuggets,Kansas State,Yes,College Senior
+1,22,Raymond Townsend,G,United States,Golden State Warriors,UCLA,Yes,College Senior
+2,23,Terry Tyler,G/F,United States,Detroit Pistons,Detroit,Yes,College Senior
+2,24,Keith Herron,G/F,United States,Portland Trail Blazers,Villanova,Yes,College Senior
+2,25,Rick Wilson,G,United States,Atlanta Hawks,Louisville,Yes,College Senior
+2,26,Ron Carter,G,United States,Los Angeles Lakers,VMI,Yes,College Senior
+2,27,Wayne Radford,G,United States,Indiana Pacers,Indiana,No,College Senior
+2,28,Buster Matheney,F,United States,Houston Rockets,Utah,Yes,College Senior
+2,29,John Long,G/F,United States,Detroit Pistons,Detroit,No,College Senior
+2,30,Jeff Judkins,G/F,United States,Boston Celtics,Utah,Yes,College Senior
+2,31,Marvin Johnson,F,United States,Chicago Bulls,New Mexico,No,College Senior
+2,32,John Rudd,F,United States,New York Knicks,McNeese State,Yes,College Senior
+2,33,Harry Davis,F,United States,Cleveland Cavaliers,Florida State,No,College Senior
+2,34,Greg Bunch,F,United States,New York Knicks,Cal State Fullerton,No,College Senior
+2,35,Tommie Green,G,United States,New Orleans Jazz,Southern,Yes,College Sophmore
+2,36,Maurice Cheeks^,G,United States,Philadelphia 76ers,West Texas State,Yes,College Senior
+2,37,Terry Sykes,F,United States,Washington Bullets,Grambling State,No,College Senior
+2,38,Lew Massey,G,United States,Los Angeles Lakers,UNC Charlotte,No,College Senior
+2,39,James Lee,F,United States,Seattle SuperSonics,Kentucky,No,College Senior
+2,40,Wayne Cooper,F/C,United States,Golden State Warriors,New Orleans,Yes,College Senior
+2,41,Jerome Whitehead,F/C,United States,Buffalo Braves,Marquette,Yes,College Senior
+2,42,Keven McDonald,F,United States,Seattle SuperSonics,Pennsylvania,Yes,College Senior
+2,43,Glenn Hagan,G,United States,Philadelphia 76ers,St. Bonaventure,No,College Senior
+2,44,Clemon Johnson,F/C,United States,Portland Trail Blazers,Florida A&M,No,College Senior
+3,46,Hollis Copeland,F,United States,Denver Nuggets,Rutgers,Yes,College Senior
+3,47,Billy Ray Bates,G,United States,Houston Rockets,Kentucky State,No,College Senior
+3,49,Jeff Cook,F/C,United States,Kansas City Kings,Idaho State,No,College Senior
+3,55,Marc Iavaroni,F,United States,New York Knicks,Virginia,No,College Senior
+3,57,Kenny Higgs,G,United States,Cleveland Cavaliers,LSU,No,College Senior
+3,59,Pat Cummings,F/C,United States,Milwaukee Bucks,Cincinnati,No,College Senior
+3,60,Michael Cooper,G/F,United States,Los Angeles Lakers,New Mexico,No,College Senior
+3,62,Dave Batton,C,United States,New Jersey Nets,Notre Dame,Yes,College Senior
+3,63,Joel Kramer,F/C,United States,Phoenix Suns,San Diego State,No,College Senior
+3,64,Gerald Henderson,G,United States,San Antonio Spurs,Virginia Commonwealth,No,College Senior
+4,67,Jackie Robinson,F,United States,Houston Rockets,UNLV,Yes,College Senior
+4,70,Geoff Crompton,C,United States,Kansas City Kings,North Carolina,No,College Senior
+4,80,Otis Howard,F,United States,Milwaukee Bucks,Austin Peay,No,College Senior
+4,81,Lawrence Boston,F,United States,Washington Bullets,Maryland,No,College Senior
+4,84,Walter Jordan,F,United States,New Jersey Nets,Purdue,Yes,College Senior
+4,85,Bob Miller,F,United States,Phoenix Suns,Cincinnati,No,College Senior
+4,87,Brett Vroman,C,United States,Philadelphia 76ers,UNLV,No,College Senior
+5,96,Duck Williams,G,United States,New Orleans Jazz,Notre Dame,No,College Senior
+5,101,Bubba Wilson,G,United States,Golden State Warriors,Western Carolina,No,College Senior
+5,104,Carlos Terry,G/F,United States,Los Angeles Lakers,Winston-Salem State,No,College Senior
+5,105,Ralph Drollinger,C,United States,Seattle SuperSonics,UCLA,No,College Senior
+5,107,Andre Wakefield,G,United States,Phoenix Suns,Loyola,No,College Senior
+5,110,Clay Johnson,G,United States,Portland Trail Blazers,Missouri,No,College Senior
+6,118,John Douglas,G,United States,New Orleans Jazz,Kansas,No,College Senior
+7,133,Stan Pietkiewicz,G/F,United States,Buffalo Braves,Auburn,No,College Senior
+7,146,Kim Anderson,F,United States,Milwaukee Bucks,Missouri,No,College Senior
+7,149,Steve Malovic,C,United States,Phoenix Suns,San Diego State,No,College Junior
+8,157,Earl Evans,F,United States,Detroit Pistons,UNLV,No,College Junior
+8,158,Carl Kilpatrick,C,United States,New Orleans Jazz,Northeast Louisiana,No,College Senior
+8,159,Chubby Cox,G,United States,Chicago Bulls,San Francisco,No,College Freshman
+10,190,Rickey Williams,G,United States,New Orleans Jazz,Long Beach State,No,College Senior

@@ -1,0 +1,71 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Patrick Ewing^,C,United States,New York Knicks,Georgetown,No,College Senior
+1,2,Wayman Tisdale,PF,United States,Indiana Pacers,Oklahoma,No,College Junior
+1,3,Benoit Benjamin,C,United States,Los Angeles Clippers,Creighton,No,College Junior
+1,4,Xavier McDaniel,PF,United States,Seattle SuperSonics,Wichita State,No,College Senior
+1,5,Jon Koncak,C,United States,Atlanta Hawks,SMU,No,College Senior
+1,6,Joe Kleine,C,United States,Sacramento Kings,Arkansas,No,College Senior
+1,7,Chris Mullin^,SF,United States,Golden State Warriors,St. John's,No,College Senior
+1,8,Detlef Schrempf,SF/PF,West Germany,Dallas Mavericks,Washington,Yes,College Senior
+1,9,Charles Oakley,PF,United States,Cleveland Cavaliers *,Virginia Union,No,College Senior
+1,10,Ed Pinckney,PF,United States,Phoenix Suns,Villanova,No,College Senior
+1,11,Keith Lee,C,United States,Chicago Bulls,Memphis State,No,College Senior
+1,12,Kenny Green,F,United States,Washington Bullets,Wake Forest,No,College Junior
+1,13,Karl Malone^,PF,United States,Utah Jazz,Louisiana Tech,No,College Junior
+1,14,Alfredrick Hughes,SG,United States,San Antonio Spurs,Loyola,No,College Senior
+1,15,Blair Rasmussen,C,United States,Denver Nuggets,Oregon,Yes,College Senior
+1,16,Bill Wennington,C,Canada,Dallas Mavericks,St. John's,Yes,College Senior
+1,17,Uwe Blab,C,West Germany,Dallas Mavericks,Indiana,No,College Senior
+1,18,Joe Dumars^,SG,United States,Detroit Pistons,McNeese State,No,College Senior
+1,19,Steve Harris,SG,United States,Houston Rockets,Tulsa,No,College Senior
+1,20,Sam Vincent,SG,United States,Boston Celtics,Michigan State,Yes,College Senior
+1,21,Terry Catledge,PF,United States,Philadelphia 76ers,South Alabama,No,College Sophmore
+1,22,Jerry Reynolds,G/F,United States,Milwaukee Bucks,LSU,No,College Junior
+1,23,A. C. Green,SF/PF,United States,Los Angeles Lakers,Oregon State,No,College Senior
+1,24,Terry Porter,PG,United States,Portland Trail Blazers,Wisconsin–Stevens Point,Yes,College Senior
+2,25,Mike Smrek,C,Canada,Portland Trail Blazers,Canisius,No,College Senior
+2,26,Bill Martin,F,United States,Indiana Pacers,Georgetown,No,College Senior
+2,27,Dwayne McClain,SG,United States,Indiana Pacers,Villanova,No,College Senior
+2,28,Ken Johnson,F,United States,Chicago Bulls,Michigan State,No,College Senior
+2,29,Mike Brittain,C,United States,San Antonio Spurs,South Carolina,No,College Sophmore
+2,30,Calvin Duncan,G,United States,Cleveland Cavaliers,VCU,No,College Senior
+2,31,Manute Bol,C,Sudan,Washington Bullets,Bridgeport,No,College Freshman
+2,32,Nick Vanos,C,United States,Phoenix Suns,Santa Clara,No,College Senior
+2,33,Greg Stokes,F/C,United States,Philadelphia 76ers,Iowa,No,College Senior
+2,34,Aubrey Sherrod,SG,United States,Chicago Bulls,Wichita State,No,College Senior
+2,35,Tyrone Corbin,SF/PF,United States,San Antonio Spurs,DePaul,No,College Senior
+2,36,Yvon Joseph,C,Haiti,New Jersey Nets,Georgia Tech,No,College Senior
+2,37,Carey Scurry,F,United States,Utah Jazz,LIU Brooklyn,No,College Senior
+2,38,Fernando Martín,PF,Spain,New Jersey Nets,Real Madrid (Spain),No,Playing Internationally
+2,39,George Montgomery,F,United States,Portland Trail Blazers,Illinois,No,College Senior
+2,40,Mark Acres,F/C,United States,Dallas Mavericks,Oral Roberts,No,College Senior
+2,41,Lorenzo Charles,PF,United States,Atlanta Hawks,NC State,No,College Senior
+2,42,Bobby Lee Hurt,C/F,United States,Golden State Warriors,Alabama,No,College Senior
+2,43,Barry Stevens,G/F,United States,Denver Nuggets,Iowa State,No,College Senior
+2,44,Voise Winters,SG,United States,Philadelphia 76ers,Bradley,No,College Senior
+2,45,"John ""Hot Rod"" Williams",PF,United States,Cleveland Cavaliers,Tulane,No,College Senior
+2,46,Adrian Branch,SF,United States,Chicago Bulls,Maryland,Yes,College Senior
+2,47,Gerald Wilkins,SG,United States,New York Knicks,Chattanooga,Yes,College Senior
+3,49,Brad Wright,PF,United States,Golden State Warriors,UCLA,No,College Senior
+3,54,Sam Mitchell,SF/PF,United States,Houston Rockets,Mercer,Yes,College Senior
+3,59,Sedric Toney,PG,United States,Atlanta Hawks*,Dayton,No,College Senior
+3,61,Perry Young,SG,United States,Portland Trail Blazers,Virginia Tech,No,College Senior
+3,63,Harold Keeling,SG,United States,Dallas Mavericks,Santa Clara,No,College Senior
+3,66,Michael Adams,PG,United States,Kansas City Kings,Boston College,Yes,College Senior
+3,69,Mike Brown,C,United States,Chicago Bulls**,George Washington,No,College Senior
+4,73,Fred Cofield,PG,United States,New York Knicks,Eastern Michigan,No,College Senior
+4,75,Alex Stivrins,F,United States,Seattle SuperSonics,Colorado,No,College Senior
+4,77,Arvydas Sabonis^,C,Soviet Union,Atlanta Hawks,Žalgiris Kaunas,No,College Sophmore
+4,79,Mark Davis,SF,United States,Cleveland Cavaliers,Old Dominion,No,College Senior
+4,82,Scott Roth,SF,United States,San Antonio Spurs,Wisconsin,No,College Senior
+4,83,Delaney Rudd,G,United States,Utah Jazz,Wake Forest,No,College Senior
+4,84,John Battle,SG,United States,Atlanta Hawks,Rutgers,Yes,College Senior
+4,87,Spud Webb,PG,United States,Detroit Pistons,NC State,No,College Senior
+4,89,Pete Williams,PF,United States,Denver Nuggets,Arizona,No,College Senior
+4,90,Derrick Gervin,PF,United States,Philadelphia 76ers,UTSA,No,College Junior
+4,91,Cozell McQueen,PF,United States,Milwaukee Bucks,NC State,No,College Senior
+4,92,Dexter Shouse,PG,United States,Los Angeles Lakers,South Alabama,No,College Sophmore
+6,139,Ralph Lewis,SG,United States,Boston Celtics,La Salle,No,College Senior
+7,144,Mike Phelps,SG,United States,Seattle SuperSonics,Alcorn State,No,College Senior
+7,148,Georgi Glouchkov,PF,Bulgaria,Phoenix Suns,Akademik Varna (Bulgaria),No,Playing Internationally
+7,160,Mario Elie,SF/SG,United States,Milwaukee Bucks,American International,No,College Senior

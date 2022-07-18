@@ -1,0 +1,76 @@
+Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+1,1,Danny Manning,PF,United States,Los Angeles Clippers,Kansas,No,College Senior
+1,2,Rik Smits,C,Netherlands,Indiana Pacers,Marist,No,College Senior
+1,3,Charles Smith,PF,United States,Philadelphia 76ers,Pittsburgh,Yes,College Senior
+1,4,Chris Morris,SF,United States,New Jersey Nets,Auburn,No,College Senior
+1,5,Mitch Richmond^,SG,United States,Golden State Warriors,Kansas State,No,College Senior
+1,6,Hersey Hawkins,SG,United States,Los Angeles Clippers,Bradley,Yes,College Senior
+1,7,Tim Perry,F,United States,Phoenix Suns,Temple,No,College Senior
+1,8,Rex Chapman,SG,United States,Charlotte Hornets,Kentucky,No,College Sophmore
+1,9,Rony Seikaly,C,Lebanon,Miami Heat,Syracuse,No,College Senior
+1,10,Willie Anderson,SG,United States,San Antonio Spurs,Georgia,No,College Senior
+1,11,Will Perdue,C,United States,Chicago Bulls,Vanderbilt,Yes,College Senior
+1,12,Harvey Grant,SF,United States,Washington Bullets,Oklahoma,No,College Senior
+1,13,Jeff Grayer,SG/SF,United States,Milwaukee Bucks,Iowa State,No,College Senior
+1,14,Dan Majerle,SF,United States,Phoenix Suns,Central Michigan,Yes,College Senior
+1,15,Gary Grant,PG,United States,Seattle SuperSonics,Michigan,No,College Senior
+1,16,Derrick Chievous,SG,United States,Houston Rockets,Missouri,No,College Senior
+1,17,Eric Leckner,C,United States,Utah Jazz,Wyoming,No,College Senior
+1,18,Ricky Berry,SG,United States,Sacramento Kings,San Jose State,Yes,College Senior
+1,19,Rod Stricklandx,PG,United States,New York Knicks,DePaul,Yes,College Junior
+1,20,Kevin Edwards,SG,United States,Miami Heat,DePaul,Yes,College Senior
+1,21,Mark Bryant,PF,United States,Portland Trail Blazers,Seton Hall,No,College Senior
+1,22,Randolph Keys,SF,United States,Cleveland Cavaliers,Southern Miss,Yes,College Sophmore
+1,23,Jerome Lane,PF,United States,Denver Nuggets,Pittsburgh,No,College Junior
+1,24,Brian Shaw,SG,United States,Boston Celtics,UC Santa Barbara,No,College Senior
+1,25,David Rivers,PG,United States,Los Angeles Lakers,Notre Dame,No,College Senior
+2,26,Rolando Ferreira,C,Brazil,Portland Trail Blazers,Houston,No,College Senior
+2,27,Shelton Jones,F,United States,San Antonio Spurs,St. John's,No,College Senior
+2,28,Andrew Lang,C,United States,Phoenix Suns,Arkansas,No,College Senior
+2,29,Vinny Del Negro,SG,United States,Sacramento Kings,NC State,No,College Senior
+2,30,Fennis Dembo,PF,United States,Detroit Pistons,Wyoming,No,College Senior
+2,31,Everette Stephens,G,United States,Philadelphia 76ers,Purdue,No,College Senior
+2,32,Charles Shackleford,F/C,United States,New Jersey Nets,NC State,No,College Senior
+2,33,Grant Long,F,United States,Miami Heat,Eastern Michigan,No,College Senior
+2,34,Tom Tolbert,F/C,United States,Charlotte Hornets,Arizona,No,College Senior
+2,35,Sylvester Gray,F,United States,Miami Heat,Memphis State,Yes,College Sophmore
+2,36,Ledell Eackles,G/F,United States,Washington Bullets,New Orleans,No,College Senior
+2,37,Greg Butler,C,United States,New York Knicks,Stanford,No,College Senior
+2,38,Dean Garrett,C,United States,Phoenix Suns,Indiana,Yes,College Senior
+2,39,Tito Horford,C,Dominican Republic,Milwaukee Bucks,Miami,No,College Sophmore
+2,40,Orlando Graham,F,United States,Miami Heat,Auburn-Montgomery,Yes,College Senior
+2,41,Keith Smart,G,United States,Golden State Warriors,Indiana,No,College Senior
+2,42,Jeff Moe,SG,United States,Utah Jazz,Iowa,No,College Senior
+2,43,Todd Mitchell,F,United States,Denver Nuggets,Purdue,No,College Senior
+2,44,Anthony Taylor,G,United States,Atlanta Hawks,Oregon,No,College Senior
+2,45,Tom Garrick,G,United States,Los Angeles Clippers,Rhode Island,No,College Senior
+2,46,Morlon Wiley,G,United States,Dallas Mavericks,Long Beach State,No,College Senior
+2,47,Vernon Maxwell,SG,United States,Denver Nuggets,Florida,No,College Senior
+2,48,Micheal Williams,G,United States,Detroit Pistons,Baylor,No,College Senior
+2,49,José Vargas,C/PF,Dominican Republic,Dallas Mavericks,LSU,No,College Senior
+2,50,Steve Kerr,PG,United States,Phoenix Suns,Arizona,No,College Senior
+3,51,Rob Lock,F,United States,Los Angeles Clippers,Kentucky,No,College Senior
+3,52,Derrick Hamilton,SF,United States,New Jersey Nets,Southern Miss,No,College Sophmore
+3,53,Anthony Mason,SF/PF,United States,Portland Trail Blazers,Tennessee State,Yes,College Senior
+3,54,Jorge González,C,Argentina,Atlanta Hawks,Sport Club de Cañada de Gómez (Argentina) 1966,Yes,Playing Internationally
+3,55,Rodney Johns,PG,United States,Phoenix Suns,Grand Canyon,No,College Senior
+3,56,Barry Sumpter,F/C,United States,San Antonio Spurs,Austin Peay,No,College Senior
+3,57,Hernán Montenegro,PF/C,Argentina,Philadelphia 76ers,LSU,No,College Senior
+3,58,Jeff Moore,PF,United States,Charlotte Hornets,Auburn,No,College Senior
+3,59,Nate Johnston,F,United States,Miami Heat,Tampa,No,College Senior
+3,60,Ed Davender,PG,United States,Washington Bullets,Kentucky,No,College Senior
+3,61,Herbert Crook ,SF/SG,United States,Indiana Pacers,Louisville,No,College Senior
+3,62,Derrick Lewis,PF,United States,Chicago Bulls,Maryland,Yes,College Senior
+3,63,Mike Jones,PF,United States,Milwaukee Bucks,Auburn,No,College Senior
+3,64,Winston Bennett,F,United States,Cleveland Cavaliers,Kentucky,No,College Senior
+3,65,Corey Gaines,G,United States,Seattle SuperSonics,Loyola Marymount,No,College Senior
+3,66,Dwight Boyd,SG,United States,Denver Nuggets,Memphis State,Yes,College Senior
+3,67,Ricky Grace,G,Australia,Utah Jazz,Oklahoma,No,College Senior
+3,68,Darryl Middleton,PF,United States,Atlanta Hawks,Baylor,No,College Senior
+3,69,Phil Stinnie,PF,United States,New York Knicks,VCU,Yes,College Senior
+3,70,Jerry Johnson,PG,United States,Dallas Mavericks,Florida Southern,No,College Sophmore
+3,71,Craig Neal,G,United States,Portland Trail Blazers,Georgia Tech,No,College Senior
+3,72,Lee Johnson,PF,United States,Detroit Pistons,Norfolk State,No,College Senior
+3,73,Michael Anderson,G,United States,Indiana Pacers,Drexel,Yes,College Senior
+3,74,Gerald Paddio,F/G,United States,Boston Celtics,UNLV,No,College Senior
+3,75,Archie Marshall,SF,United States,San Antonio Spurs,Kansas,Yes,College Senior
