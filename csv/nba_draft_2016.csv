@@ -1,4 +1,4 @@
-Round,Pick,Player,Position,Nationality,Team,School/club team,Traded to a different team,Status
+round,pick,player,position,nationality,team,school/club team,Traded to a different team,Status
 1,1,Ben Simmons,PF/PG,Australia,Philadelphia 76ers,LSU,No,College Freshman
 1,2,Brandon Ingram,SF,United States,Los Angeles Lakers,Duke,No,College Freshman
 1,3,Jaylen Brown,SF/SG,United States,Boston Celtics,California,Yes,College Freshman
