@@ -1,2 +1,2 @@
-# NBA-Drafted-Players-2009-2021-Analytics
-Web Scraping, Data Cleaning, Analysis and Visualization of NBA Draft from 2009 to 2021.
+# global-diversity-in-the-NBA-drafts
+Scraped from Wikipedia, cleaned, analyzed and visualized data on the NBA draft. Analyzing diversity and inclusion of foreign nationals in the drafts
